@@ -1,0 +1,212 @@
+# AI-Powered IT Support Ticket Intelligence Platform (Backend)
+
+A FastAPI backend that classifies IT support tickets into **Network**, **Hardware**,
+**Software** or **Account Access** using a TF-IDF + Logistic Regression model, stores
+submitted tickets in a database, and exposes simple analytics.
+
+> **Demo data notice.** The bundled dataset (`data/tickets_demo.csv`) is **synthetic**.
+> It was generated from hand-written phrases by `ml/generate_dataset.py`, and every row
+> has `data_source = SYNTHETIC_DEMO`. It is not real company data. See
+> [Reading the metrics honestly](#reading-the-metrics-honestly).
+
+---
+
+## 1. Setup and run (exact commands)
+
+Requires Python 3.10 or newer. Run everything from the project root (`ticket-intelligence/`).
+
+**macOS / Linux**
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+```
+
+**Windows (PowerShell)**
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+Copy-Item .env.example .env
+```
+(If PowerShell blocks activation, run `Set-ExecutionPolicy -Scope Process RemoteSigned` once, then activate again.)
+
+**Then, on any OS:**
+```bash
+python -m ml.generate_dataset      # 1. create data/tickets_demo.csv (synthetic demo data)
+python -m ml.train                 # 2. train, evaluate, save models/ticket_classifier.joblib + metrics.json
+python -m pytest                   # 3. run the automated tests (should all pass)
+uvicorn app.main:app --reload      # 4. start the API
+```
+
+Open **http://127.0.0.1:8000/docs** for interactive Swagger docs where you can try every endpoint.
+
+> You must run step 2 before starting the API. If the model file is missing, the API still
+> starts, `/health` reports `degraded`, and prediction endpoints return `503` with a message
+> telling you to train.
+
+### Try it with curl
+```bash
+curl http://127.0.0.1:8000/health
+
+curl -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/json" \
+  -d '{"title":"Cannot connect to VPN","description":"The VPN client connects but times out after a minute."}'
+
+curl -X POST http://127.0.0.1:8000/tickets -H "Content-Type: application/json" \
+  -d '{"title":"Locked out","description":"My account is locked after too many failed login attempts."}'
+
+curl "http://127.0.0.1:8000/tickets?limit=10&offset=0&category=Account%20Access"
+curl http://127.0.0.1:8000/analytics
+```
+
+Example `/predict` response:
+```json
+{
+  "category": "Network",
+  "confidence": 0.818,
+  "probabilities": {"Account Access": 0.0679, "Hardware": 0.0566, "Network": 0.818, "Software": 0.0575}
+}
+```
+
+---
+
+## 2. Endpoints
+
+| Method & path | What it does | Success | Errors |
+|---|---|---|---|
+| `GET /health` | Reports whether the model is loaded and the database is reachable | `200` | `503` if either is down |
+| `POST /predict` | Classifies a ticket. **Does not save it.** | `200` | `422` invalid input, `503` model missing |
+| `POST /tickets` | Classifies a ticket **and saves** it with its predicted category and confidence | `201` | `422`, `503`, `500` DB failure |
+| `GET /tickets` | Lists saved tickets, newest first. Query: `limit` (1-100), `offset`, `category` | `200` | `422` bad parameters |
+| `GET /analytics` | Counts per category, average confidence, plus the model's saved test-set metrics | `200` | `500` |
+
+Input rules (`app/schemas.py`): `title` is 3-200 characters, `description` is 10-5000
+characters, both are trimmed of surrounding whitespace. Text that contains no usable
+words after cleaning (for example only punctuation) is rejected with `422`.
+
+---
+
+## 3. What each file is for
+
+```
+ticket-intelligence/
+├── app/                        The running web service
+│   ├── main.py                 Creates the FastAPI app. Startup (create tables, load model),
+│   │                           CORS, request logging, global error handlers.
+│   ├── routes.py               The 5 endpoints. Thin: validate -> predict -> save/read -> respond.
+│   ├── schemas.py              Pydantic models. Define and validate request/response JSON.
+│   ├── predictor.py            Loads the joblib pipeline once; returns category + confidence.
+│   ├── preprocessing.py        clean_text() and pandas clean_dataframe(). Used by BOTH
+│   │                           training and the API so they treat text identically.
+│   ├── database.py             SQLAlchemy engine + per-request session (SQLite/PostgreSQL).
+│   ├── models.py               The `tickets` table definition.
+│   └── config.py               Settings from environment variables / .env (no secrets in code).
+├── ml/                         Offline machine learning (not part of the running API)
+│   ├── generate_dataset.py     Builds the SYNTHETIC demo CSV with a fixed random seed.
+│   └── train.py                Clean -> split -> train -> evaluate -> save model + metrics.json.
+├── data/tickets_demo.csv       Demo dataset (generated).
+├── models/                     ticket_classifier.joblib and metrics.json (generated by train.py).
+├── tests/                      pytest suite (preprocessing, ML pipeline, API).
+├── requirements.txt            Python dependencies.
+├── .env.example                Template for local settings. Copy to .env (never commit .env).
+├── .gitignore                  Keeps .env, the database, the venv and trained artifacts out of git.
+└── pytest.ini                  Tells pytest where the tests are and to import from the project root.
+```
+
+---
+
+## 4. Complete data flow
+
+**Training (offline, `python -m ml.train`)**
+1. Read `data/tickets_demo.csv`.
+2. `clean_dataframe()`: keep valid categories, join title + description, lowercase,
+   strip URLs/emails/punctuation, drop empty rows, **drop duplicate texts**.
+3. `train_test_split`: 80% train / 20% test, **stratified** by category, fixed `random_state`.
+4. Fit a `Pipeline(TfidfVectorizer -> LogisticRegression)` on the **training part only**.
+5. Predict on the **unseen test part**; compute accuracy, per-class and macro
+   precision/recall/F1, and the confusion matrix with scikit-learn.
+6. Save the pipeline with `joblib` and all metrics to `models/metrics.json`.
+
+**Serving (online, `uvicorn app.main:app`)**
+1. Startup: create database tables, load the joblib pipeline into memory once.
+2. `POST /predict` or `/tickets`: Pydantic validates the JSON (else `422`).
+3. `build_ticket_text()` cleans title + description with the same function used in training.
+4. `pipeline.predict_proba()` returns a probability per category. The top one is the
+   `category`; its probability is the `confidence`.
+5. `/tickets` additionally inserts a row (title, description, predicted category,
+   confidence, timestamp) through SQLAlchemy.
+6. `GET /tickets` reads rows back; `GET /analytics` aggregates them with SQL
+   (`COUNT`, `AVG`, `GROUP BY`) and attaches the test-set metrics from `metrics.json`.
+
+---
+
+## 5. Reading the metrics honestly
+
+Metrics are **calculated** by `ml/train.py` on the held-out test set and written to
+`models/metrics.json`; nothing is typed in by hand. Run `python -m ml.train` and read the
+printed report, or call `GET /analytics`.
+
+On the synthetic demo data the scores come out at or near **1.00**. That is **not**
+evidence of a production-ready model. The cause is the data: tickets are assembled from a
+small set of phrases, so the same wording appears in both the training and test splits
+(duplicates are removed, but near-duplicates that differ by one noise sentence remain). The
+model effectively recognises phrases it has already seen.
+
+A quick informal probe with 10 hand-written tickets using wording that is **not** in the
+generator got 9 of 10 right, with modest confidence (roughly 0.3-0.7). That is a tiny
+sample and not a rigorous benchmark, but it suggests the model generalises somewhat while
+having a small vocabulary. For example, "Need Photoshop" was misclassified.
+
+If you present this project, say: *"The pipeline, evaluation method and API are the
+deliverable. The scores on synthetic data demonstrate the pipeline works, not real-world
+accuracy. Real tickets would be needed to measure that."*
+
+Also note that `confidence` is the model's predicted probability, not a guarantee of
+correctness. Logistic Regression probabilities are reasonably but not perfectly calibrated.
+
+---
+
+## 6. Switching to PostgreSQL
+
+1. `pip install psycopg2-binary`
+2. In your local `.env` (never in code or git), set
+   `DATABASE_URL=postgresql+psycopg2://USER:PASSWORD@localhost:5432/tickets`
+3. Restart the API. Tables are created automatically at startup.
+
+No Python code changes are needed because SQLAlchemy hides the difference. For a real
+production system you would add schema migrations (Alembic); this project deliberately does not.
+
+---
+
+## 7. Design decisions you can defend in an interview
+
+- **Why TF-IDF + Logistic Regression?** It is a strong, fast, interpretable baseline for short
+  text. It trains in under a second, needs no GPU, and gives probabilities. Start simple, then
+  justify anything heavier with measurements.
+- **Why one `Pipeline`?** The vectorizer fitted on training data is bundled with the classifier,
+  so predictions can never use a mismatched vocabulary, and one joblib file holds everything.
+- **Why a shared `preprocessing.py`?** Prevents training/serving skew (training and the API
+  cleaning text differently).
+- **Why stratified split and de-duplication?** Stratifying keeps category proportions equal in
+  both splits; de-duplicating stops identical tickets from leaking into the test set and
+  inflating the score.
+- **Why is the model trained in a script, not in the API?** Training is slow and changes rarely;
+  serving must be fast and stable. The API only loads a saved artifact.
+- **Why SQLAlchemy?** One codebase for SQLite (zero setup) and PostgreSQL (production).
+- **Why do endpoints use plain `def`?** scikit-learn and SQLAlchemy calls are blocking, so
+  FastAPI runs plain `def` handlers in a thread pool and the server stays responsive.
+- **Secrets:** configuration comes from environment variables; `.env` is git-ignored and only
+  `.env.example` is committed.
+- **Error handling:** validation gives `422` with field-level messages, a missing model gives
+  `503`, database failures roll back and give `500`, and unexpected errors are logged with a
+  traceback but return a generic message so internals are not leaked.
+
+---
+
+## 8. Known limitations
+
+- Demo data only; the model must be retrained on real, labelled tickets before real use.
+- No authentication or rate limiting. Add both before exposing this publicly.
+- No schema migrations and no model versioning.
+- Only four categories; a ticket outside them is still forced into one of the four.

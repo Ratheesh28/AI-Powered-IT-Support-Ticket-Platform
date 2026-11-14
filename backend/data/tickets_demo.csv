@@ -1,0 +1,1049 @@
+ticket_id,title,description,category,data_source
+DEMO-0001,Laptop will not turn on,There is a cracked screen on my laptop after it fell off the desk. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0002,Cannot sign in to email,Single sign on redirects me back to the login page in a loop. I already tried the self service reet page.,Account Access,SYNTHETIC_DEMO
+DEMO-0003,Password expired,My user profile was disabled after I returned from leave. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0004,Need password reset,My user profile was disabled ater I returned from leave. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0005,DNS error on all websites,Remote desktop over VPN is unusably slow from home broadband. I already restarted the network adapter. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0006,Laptop will not turn on,The fan is very loud and the bottom of the laptop gets extremely hot. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0007,Intranet site not loading,The VPN client connects but then times out after a minute. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0008,Laptop overheating and fan loud,The screen flickers and shows horizontal lines after a few minutes. A spare part from the stockroom might fix it. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0009,Cannot connect to VPN,The router on our floor keeps restarting and everyone loses connection. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0010,Excel freezes on large files,The ERP system displays an error when I try to save a purchase order. It started after the latest patch. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0011,Excel freezes on large files,Excel stops responding whenever I open a workbook with many formulas. I attached a screenshot of the error message. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0012,Outlook keeps crashing,The code editor does not open after the last update and nothing happens. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0013,DNS error on all websites,The router on our floor keeps restarting and everyone loses connection.,Network,SYNTHETIC_DEMO
+DEMO-0014,Printer paper jam,There is a cracked screen on my laptop after it fell off the desk. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0015,Need access to SharePoint folder,I need permission to view the finance team SharePoint folder. I already tried the self service reset page. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0016,ERP application throws an error,Windows update has been stuck at thirty percent for hours.,Software,SYNTHETIC_DEMO
+DEMO-0017,Teams update failing,Outlook closes unexpectedly when I open an attachment. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0018,Laptop will not turn on,The office printer has a paper jam and shows a tray error. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0019,Password expired,I need my role permissions updated so I can approve expense reports. My manager can confirm the access request. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0020,Laptop very slow,The laptop is extremely slow and the fan runs all the time. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0021,Proxy error when browsing,The wifi drops every few minutes and I have to reconnect manually.,Network,SYNTHETIC_DEMO
+DEMO-0022,Need access to SharePoint folder,"Please unlock my directory account, I cannot log in to any system. Please help as soon as possible.",Account Access,SYNTHETIC_DEMO
+DEMO-0023,Headset has no audio,The screen flickers and shows horizontal lines after a few minutes. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0024,Account locked out,I forgot my password and need it reset so I can log in. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0025,Laptop will not turn on,The battery only lasts about thirty minutes and the laptop shuts down suddenly. A spare part from the stockroom might fix it. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-0026,Ethernet port not working,Remote desktop over VPN is unusably slow from home broadband. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0027,Battery drains very fast,The screen flickers and shows horizontal lines after a few minutes. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0028,Ethernet port not working,The ethernet port on my desk gives no link light and no connectivity.,Network,SYNTHETIC_DEMO
+DEMO-0029,Docking station not detected,"The wireless mouse has stopped moving the cursor, I replaced the battery. The device is about three years old. This is not urgent but it is annoying.",Hardware,SYNTHETIC_DEMO
+DEMO-0030,Intranet site not loading,The router on our floor keeps restarting and everyone loses connection. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0031,Intranet site not loading,Ping to the internal servers is timing out and packets are being lost. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0032,MFA code not arriving,The security token for my login was revoked and I cannot authenticate. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0033,Printer paper jam,The fan is very loud and the bottom of the laptop gets extremely hot. I tried a different power outlet. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0034,VS Code will not launch,Please install the latest version of the data analysis software on my machine.,Software,SYNTHETIC_DEMO
+DEMO-0035,Cannot reach shared drive,The ethernet port on my desk gives no link light and no connectivity. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0036,Printer not found,My computer cannot find the office printer on the network. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0037,Single sign on failing,I need my role permissions updated so I can approve expense reports. My employee ID is on the original request form. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0038,Docking station not detected,There is a cracked screen on my laptop after it fell off the desk. The device is about three years old. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0039,Excel freezes on large files,My software license has expired and the application is in read only mode.,Software,SYNTHETIC_DEMO
+DEMO-0040,Headset has no audio,The laptop does not power on at all even when connected to the charger. I need a replacement unit if it cannot be repaired. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0041,Need access to SharePoint folder,Please grant me access to the Jira project for my new team. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0042,Windows update stuck,After the upgrade my PDF reader shows a missing DLL message. Othr users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0043,License expired for design tool,After the upgrade my PDF reader shows a missing DLL message. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0044,Outlook keeps crashing,The ERP system displays an error when I try to save a purchase order.,Software,SYNTHETIC_DEMO
+DEMO-0045,Cannot connect to VPN,I have no internet connection even though the cable is plugged in. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0046,Very slow network speed,The VPN client connects but then times out after a minute. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0047,Very slow network speed,The firewall seems to be blocking access to the internal portal. Bandwidth looks very low on the speed test. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0048,Docking station not detected,The headset microphone is dead and I cannot hear anything through the speakers. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0049,Screen share failing,Screen sharing in the meeting app fails and the display driver crashes. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0050,Need password reset,Single sign on redirects me back to the login page in a loop. I need this before the end of the day. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0051,VS Code will not launch,The ERP system displays an error when I try to save a purchase order. It started after the latest patch. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0052,Laptop overheating and fan loud,The hard drive is making a clicking noise and the machine freezes. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0053,Windows update stuck,My software license has expired and the application is in read only mode. Other users in my team have not seen this. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0054,Cannot sign in to email,I changed phones and need to re register my authenticator app. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0055,Laptop overheating and fan loud,Several keys on the keyboard are stuck or do not register. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0056,Outlook keeps crashing,Outlook closes unexpectedly when I open an attachment. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0057,Cannot connect to VPN,The firewall seems to be blocking access to the internal portal. The problem is worse in the afternoon. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0058,Proxy error when browsing,The ethernet port on my desk gives no link light and no connectivity.,Network,SYNTHETIC_DEMO
+DEMO-0059,VS Code will not launch,The program runs very slowly and uses all of the memory after the patch. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0060,Need password reset,My user profile was disabled after I returned from leave. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0061,Password expired,The multi factor authentication code never arrives by text message. I already tried the self service reset page. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0062,Authenticator app on new phone,My user profile was disabled after I returned from leave. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0063,Browser extension not working,The browser extension needed for the finance portal is not loading. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0064,Need new software installed,The code editor does not open after the last update and nothing happens. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0065,No internet access in my office,The firewall seems to be blocking access to the internal portal.,Network,SYNTHETIC_DEMO
+DEMO-0066,Excel freezes on large files,The application shows an unhandled exception dialog right after launching. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0067,Outlook keeps crashing,Windows update has been stuck at thirty percent for hours. The version nuber is in the about menu. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0068,Cannot sign in to email,I get an access denied message when opening the shared project folder. It worked yesterday without any problem. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-0069,Docking station not detected,Several keys on the keyboard are stuck or do not register. It happened right after I moved my desk. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0070,MFA code not arriving,I need permission to view the finance team SharePoint folder. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0071,Windows update stuck,The code editor does not open after the last update and nothing happens. Other users in my team have not seen this. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0072,Single sign on failing,My account is locked after too many failed login attempts. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0073,Battery drains very fast,My external monitor says no signal even though the cable is connected. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0074,Screen flickering,The screen flickers and shows horizontal lines after a few minutes. The device is about three years old. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0075,Headset has no audio,The battery only lasts about thirty minutes and the laptop shuts down suddenly. It happened right after I moved my desk. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-0076,Printer paper jam,The webcam light is on but the camera shows a black picture.,Hardware,SYNTHETIC_DEMO
+DEMO-0077,Need access to SharePoint folder,I get an access denied message when opening the shared project folder.,Account Access,SYNTHETIC_DEMO
+DEMO-0078,No internet access in my office,The wifi drops every few minutes and I have to reconnect manually. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0079,Laptop very slow,The laptop is extremely slow and the fan runs all the time. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0080,Application error on startup,The installer fails halfway with an error and rolls back. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0081,Ethernet port not working,The wifi drops every few minutes and I have to reconnect manually. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0082,ERP application throws an error,The browser extension needed for the finance portal is not loading.,Software,SYNTHETIC_DEMO
+DEMO-0083,Headset has no audio,The battery only lasts about thirty minutes and the laptop shuts down suddenly. Plase help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0084,No internet access in my office,My IP address shows as limited connectivity on the network adapter. I already restarted the network adapter. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0085,Excel freezes on large files,Excel stops responding whenever I open a workbook with many formulas. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0086,Headset has no audio,The USB ports do not recognise any devices I plug in. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0087,ERP application throws an error,The antivirus software is blocking an approved application from running. The version number is in the about menu. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0088,MFA code not arriving,I need my role permissions updated so I can approve expense reports. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0089,No internet access in my office,My IP address shows as limited connectivity on the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0090,Very slow network speed,My IP address shows as limited connectivity on the network adapter. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0091,Very slow network speed,I have no internet connection even though the cable is plugged in. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0092,Need access to SharePoint folder,My user profile was disabled after I returned from leave. It worked yesterday without any problem. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0093,No internet access in my office,I get a proxy authentication error whenever I open any external website. It works fine on my phone hotspot. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0094,Proxy error when browsing,I get a proxy authentication error whenever I open any external website. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0095,VS Code will not launch,The installer fails halfway with an error and rolls back. I attached a screenshot of the error message. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0096,Laptop overheating and fan loud,The fan is very loud and the bottom of the laptop gets extremely hot. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0097,Teams update failing,I need admin approval to install a plugin for the reporting tool. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0098,Excel freezes on large files,The installer fails halfway with an error and rolls back.,Software,SYNTHETIC_DEMO
+DEMO-0099,Mouse stopped responding,The laptop does not power on at all even when connected to the charger. A spare part from the stockroom might fix it. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0100,Screen share failing,Screen sharing in the meeting app fails and the display driver crashes. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0101,Cannot reach shared drive,The ethernet port on my desk gives no link light and no connectivity. Bandwidth looks very low on the speed test. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0102,Cannot connect to VPN,The wifi dops every few minutes and I have to reconnect manually. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0103,Screen flickering,The docking station is not detecting the external monitors or the keyboard. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0104,Mouse stopped responding,Several keys on the keyboard are stuck or do not register.,Hardware,SYNTHETIC_DEMO
+DEMO-0105,No internet access in my office,The office wifi network does not appear in the list of available networks.,Network,SYNTHETIC_DEMO
+DEMO-0106,Video calls lagging badly,I have no internet connection even though the cable is plugged in. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0107,Authenticator app on new phone,I need my role permissions updated so I can approve expense reports. I need this before the end of the day. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0108,Video calls lagging badly,The ethernet port on my desk gives no link light and no connectivity. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0109,Cannot reach shared drive,Websites show a DNS server not responding error. I already restarted the network adapter. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0110,Need new software installed,The antivirus software is blocking an approved application from running.,Software,SYNTHETIC_DEMO
+DEMO-0111,Authenticator app on new phone,My account is locked after too many failed login attempts. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0112,Request access to Jira project,Please grant me access to the Jira project for my new team. My manager can confirm the access request. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-0113,No internet access in my office,My IP address shows as limited connectivity on the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0114,Monitor shows no signal,There is a cracked screen on my laptop after it fell off the desk. I need a replacement unit if it cannot be repaired. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0115,Need access to SharePoint folder,Single sign on redirects me back to the login page in a loop. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0116,MFA code not arriving,Please grant me access to the Jira project for my new team. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0117,Permission denied on shared folder,Single sign on redirects me back to the login page in a loop. I already tried the self service reset page. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0118,License expired for design tool,Outlook closes unexpectedly when I open an attachment. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0119,Outlook keeps crashing,Please install the latest version of the data analysis software on my machine.,Software,SYNTHETIC_DEMO
+DEMO-0120,Windows update stuck,Please install the latest version of the data analysis software on my machine. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0121,Single sign on failing,I need permission to view the finance team SharePoint folder. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0122,Laptop will not turn on,The webcam light is on but the camera shows a black picture.,Hardware,SYNTHETIC_DEMO
+DEMO-0123,VS Code will not launch,Excel stops responding whenever I open a workbook with many formulas. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0124,Headset has no audio,My external monitor says no signal even though the cable is connected. I need a replacement unit if it cannot be repaired. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0125,Intranet site not loading,Remote desktop over VPN is unusably slow from home broadband. Bandwidth looks very low on the speed test. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0126,Request access to Jira project,I need my role permissions updated so I can approve expense reports. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0127,No internet access in my office,The firewall seems to be blocking access to the internal portal. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0128,Monitor shows no signal,My external monitor says no signal even though the cable is connected. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0129,Cannot reach shared drive,Downloads and web pages are extremely slow compared to yesterday. It works fine on my phone hotspot. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0130,Need new software installed,I need admin approval to install a plugin for the reporting tool. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0131,Docking station not detected,The headset microphone is dead and I cannot hear anything through the speakers. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0132,Ethernet port not working,The VPN client connects but then times out after a minute. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0133,Mouse stopped responding,The hard drive is making a clicking noise and the machine freezes.,Hardware,SYNTHETIC_DEMO
+DEMO-0134,Docking station not detected,"The wireless mouse has stopped moving the cursor, I replaced the battery.",Hardware,SYNTHETIC_DEMO
+DEMO-0135,ERP application throws an error,Excel stops responding whenever I open a workbook with many formulas. I tried reinstalling it but the same error returns. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0136,Cannot reach shared drive,Websites show a DNS server not responding error. Bandwidth looks very low on the speed test. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0137,Password expired,Please grant me access to the Jira project for my new team. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0138,Cannot log in over VPN,VPN connects but my login is rejected with invalid credentials. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0139,Intranet site not loading,"I cannot map the network shared drive, it says the network path was not found. This is blocking my work.",Network,SYNTHETIC_DEMO
+DEMO-0140,Need access to SharePoint folder,I need permission to view the finance team SharePoint folder. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0141,Ethernet port not working,Downloads and web pages are extremely slow compared to yesterday.,Network,SYNTHETIC_DEMO
+DEMO-0142,Proxy error when browsing,The firewall seems to be blocking access to the internal portal. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0143,Keyboard keys not working,My external monitor says no signal even though the cable is connected.,Hardware,SYNTHETIC_DEMO
+DEMO-0144,Cannot connect to VPN,Downloads and web pages are extremely slow compared to yesterday. Bandwidth looks very low on the speed test. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0145,Mouse stopped responding,The hard drive is making a clicking noise and the machine freezes. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0146,Very slow network speed,Downloads and web pages are extremely slow compared to yesterday.,Network,SYNTHETIC_DEMO
+DEMO-0147,Need new software installed,The installer fails halfway with an error and rolls back. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0148,Headset has no audio,The headset microphone is dead and I cannot hear anything through the speakers. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0149,Monitor shows no signal,The screen flickers and shows horizontal lines after a few minutes. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0150,Authenticator app on new phone,My password has expired and the reset link does not work. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0151,Teams update failing,The installer fails halfway with an error and rolls back. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0152,Screen flickering,The USB ports do not recognise any devices I plug in. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0153,Screen flickering,The hard drive is making a clicking noise and the machine freezes. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0154,License expired for design tool,The installer fails halfway with an error and rolls bac. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0155,Keyboard keys not working,My external monitor says no signal even though the cable is connected. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0156,Permission denied on shared folder,Please grant me access to the Jira project for my new team. My manager can confirm the access request. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0157,Need new software installed,The program runs very slowly and uses all of the memory after the patch.,Software,SYNTHETIC_DEMO
+DEMO-0158,Need password reset,My user profile was disabled after I returned from leave. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0159,Account locked out,I need permission to view the finance team SharePoint folder. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0160,Screen flickering,The office printer has a paper jam and shows a tray error. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0161,License expired for design tool,Windows update has been stuck at thirty percent for hours.,Software,SYNTHETIC_DEMO
+DEMO-0162,Teams update failing,The installer fails halfway with an error and rolls back.,Software,SYNTHETIC_DEMO
+DEMO-0163,Wifi keeps disconnecting,The wifi drops every few minutes and I have to reconnect manually. The problem is worse in the afternoon. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0164,Battery drains very fast,There is a cracked screen on my lapop after it fell off the desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0165,Ethernet port not working,Ping to the internal servers is timing out and packets are being lost. I already restarted the network adapter. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0166,Screen share failing,Screen sharing in the meeting app fails and the display driver crashes. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0167,Need access to SharePoint folder,I forgot my password and need it reset so I can log in. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0168,Laptop overheating and fan loud,My external monitor says no signal even though the cable is connected. It happened right after I moved my desk. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0169,Monitor shows no signal,The office printer has a paper jam and shows a tray error.,Hardware,SYNTHETIC_DEMO
+DEMO-0170,Single sign on failing,I forgot my password and need it reset so I can log in. I need this before the end of the day. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0171,ERP application throws an error,Outlook closes unexpectedly when I open an attachment. It started after the latest path. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0172,Docking station not detected,The webcam light is on but the camera shows a black picture. It happened right after I moved my desk. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0173,Headset has no audio,The hard drive is making a clicking noise and the machine freezes.,Hardware,SYNTHETIC_DEMO
+DEMO-0174,Browser extension not working,The code editor does not open after the last update and nothing happens. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0175,Application error on startup,The Teams update fails with an error code and keeps retrying. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0176,Mouse stopped responding,Several keys on the keyboard are stuck or do not register. The device is about three years old. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0177,Laptop will not turn on,The headset microphone is dead and I cannot hear anything through the speakers. I tried a different power outlet. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0178,Request access to Jira project,"I cannot sign in to my corporate email, it says the credentials are incorrect. My manager can cnfirm the access request. It started this morning.",Account Access,SYNTHETIC_DEMO
+DEMO-0179,Need new software installed,My software license has expired and the application is in read only mode. It started after the latest patch. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0180,Video calls lagging badly,Ping to the internal servers is timing out and packets are being lost.,Network,SYNTHETIC_DEMO
+DEMO-0181,Account locked out,I forgot my password and need it reset so I can log in. It worked yesterday without any problem. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0182,ERP application throws an error,My software license has expired and the application is in read only mode. The version number is in the about menu. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0183,Teams update failing,Windows update has been stuck at thirty percent for hours. I tried reinstalling it but the same error returns. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0184,Teams will not load,Teams shows a blank screen and then an error after I sign in. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0185,Account locked out,My user profile was disabled after I returned from leave. I need this before the end of the day. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0186,Battery drains very fast,The fan is very loud and the bottom of the laptop gets extremely hot. I tried a different power outlet. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-0187,Ethernet port not working,I get a proxy authentication error whenever I open any external website.,Network,SYNTHETIC_DEMO
+DEMO-0188,Excel freezes on large files,Please install the latest version of the data analysis software on my machine. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0189,No internet access in my office,The office wifi network does not appear in the list of available networks. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0190,DNS error on all websites,Video meetings freeze and audio cuts out because of high latency. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0191,Excel freezes on large files,I need admin approval to install a plugin for the reporting tool.,Software,SYNTHETIC_DEMO
+DEMO-0192,DNS error on all websites,Downloads and web pages are extremely slow compared to yesterday. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0193,Intranet site not loading,"I cannot map the network shared drive, it says the network path was not found. Bandwidth looks very low on the speed test.",Network,SYNTHETIC_DEMO
+DEMO-0194,Docking station not detected,There is a cracked screen on my laptop after it fell off the desk. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0195,Intranet site not loading,Ping to the internal servers is timing out and packets are being lost. The problem is worse in the afternoon. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0196,Headset has no audio,Several keys on the keyboard are stuck or do not register. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0197,Screen flickering,The hard drive is making a clicking noise and the machine freezes. The device is about three years old. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0198,Very slow network speed,"I cannot map the network shared drive, it says the network path was not found.",Network,SYNTHETIC_DEMO
+DEMO-0199,Laptop will not turn on,The power adapter is damaged and the charging cable is frayed. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0200,Printer paper jam,The battery only lasts about thirty minutes and the laptop shuts down suddenly. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0201,Screen flickering,Several keys on the keyboard are stuck or do not register. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0202,Need new software installed,I need admin approval to install a plugin for the reporting tool.,Software,SYNTHETIC_DEMO
+DEMO-0203,Need password reset,Please grant me access to the Jira project for my new tam. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0204,Windows update stuck,I need admin approval to install a plugin for the reporting tool. The version number is in the about meu. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0205,Printer paper jam,"The wireless mouse has stopped moving the cursor, I replaced the battery. I need a replacement unit if it cannot be repaired.",Hardware,SYNTHETIC_DEMO
+DEMO-0206,VS Code will not launch,My software license has expired and the application is in read only mode. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0207,Windows update stuck,The ERP system displays an error when I try to save a purchase order. The version number is in the about menu. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0208,Headset has no audio,The battery only lasts about thirty minutes and the laptop shuts down suddenly. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0209,License expired for design tool,The application shows an unhandled exception dialog right after launching. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0210,Cannot reach shared drive,I get a proxy authentication error whenever I open any external website.,Network,SYNTHETIC_DEMO
+DEMO-0211,Need password reset,I changed phones and need to re register my authenticator app. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0212,Teams will not load,Teams shows a blank screen and then an error after I sign in. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0213,Laptop will not turn on,"The wireless mouse has stopped moving the cursor, I replaced the battery. The device is about three years old. It started this morning.",Hardware,SYNTHETIC_DEMO
+DEMO-0214,Battery drains very fast,My external monitor says no signal even though the cable is connected. I need a replacement unit if it cannot be repaired. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0215,Authenticator app on new phone,I forgot my password and need it reset so I can log in. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0216,No internet access in my office,My IP address shows as limited connectivity on the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0217,MFA code not arriving,I need permission to view the finance team SharePoint folder. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0218,Password expired,My password has expired and the reset link does not work. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0219,Cannot connect to VPN,The wifi drops every few minutes and I have to reconnect manually.,Network,SYNTHETIC_DEMO
+DEMO-0220,Permission denied on shared folder,A new joiner in my team needs an account and the standard access groups. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0221,Single sign on failing,I need my role permissions updated so I can approve expense reports. My employee ID is on the original request form. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0222,Application error on startup,My software license has expired and the application is in read only mode. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0223,VS Code will not launch,Excel stops responding whenever I open a workbook with many formulas.,Software,SYNTHETIC_DEMO
+DEMO-0224,Account locked out,My user profile was disabled after I returned from leave. My manager can confirm the access request. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0225,Laptop overheating and fan loud,The screen flickers and shows horizontal lines after a few minutes. I need a replacement unit if it canot be repaired. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0226,Authenticator app on new phone,Please grant me access to the Jira project for my new team. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0227,MFA code not arriving,My account is locked after too many failed login attempts. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0228,Teams will not load,Teams shows a blank screen and then an error after I sign in. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0229,Laptop will not turn on,The screen flickers and shows horizontal lines after a few minutes. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0230,Printer paper jam,"The wireless mouse has stopped moving the cursor, I replaced the battery.",Hardware,SYNTHETIC_DEMO
+DEMO-0231,Monitor shows no signal,The webcam light is on but the camera shows a black picture. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0232,Headset has no audio,The fan is very loud and the bottom of the laptop gets extremely hot. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0233,Application error on startup,The antivirus software is blocking an approved application from running. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0234,Application error on startup,Please install the latest version of the data analysis software on my machine.,Software,SYNTHETIC_DEMO
+DEMO-0235,No internet access in my office,The wifi drops every few minutes and I have to reconnect manually. Bandwidth looks very low on the speed test. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0236,Account locked out,"Please unlock my directory account, I cannot log in to any system. It worked yesterday without any problem.",Account Access,SYNTHETIC_DEMO
+DEMO-0237,Wifi keeps disconnecting,Websites show a DNS server not responding error. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0238,Outlook keeps crashing,My software license has expired and the application is in read only mode. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0239,Account locked out,The multi factor authentication code never arrives by text message. I already tried the self service reset page. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0240,Teams update failing,After the upgrade my PDF reader shows a missing DLL message. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0241,VS Code will not launch,I need admin approval to install a plugin for the reporting tool. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0242,MFA code not arriving,The multi factor authentication code never arrives by text message.,Account Access,SYNTHETIC_DEMO
+DEMO-0243,Application error on startup,Windows update has been stuck at thirty percent for hours. Other users in my team have not seen this. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0244,Docking station not detected,The fan is very loud and the bottom of the laptop gets extremely hot. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0245,Screen flickering,There is a cracked screen on my laptop after it fell off the desk. I tried a different power outlet. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0246,Account locked out,"I cannot sign in to my corporate email, it says the credentials are incorrect. I already tried the self service reset page. I am working from the main office today.",Account Access,SYNTHETIC_DEMO
+DEMO-0247,Printer paper jam,"The wireless mouse has stopped moving the cursor, I replaced the battery. I need a replacement unit if it cannot be repaired.",Hardware,SYNTHETIC_DEMO
+DEMO-0248,Headset has no audio,The screen flickers and shows horizontal lines after a few minutes. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0249,Laptop overheating and fan loud,The hard drive is making a clicking noise and the machine freezes. I tried a different power outlet. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0250,Cannot connect to VPN,Video meetings freeze and audio cuts out because of high latency. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0251,Laptop very slow,The laptop is extremely slow and the fan runs all the time. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0252,Laptop overheating and fan loud,My external monitor says no signal even though the cable is connected. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0253,Authenticator app on new phone,The multi factor authentication code never arrives by text message.,Account Access,SYNTHETIC_DEMO
+DEMO-0254,Docking station not detected,The USB ports do not recognise any devices I plug in. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0255,Laptop will not turn on,The docking station is not detecting the external monitors or the keyboard.,Hardware,SYNTHETIC_DEMO
+DEMO-0256,Account locked out,My user profile was disabled after I returned from leave. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0257,Ethernet port not working,I get a proxy authentication error whenever I open any external website. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0258,Headset has no audio,The office printer has a paper jam and shows a tray error.,Hardware,SYNTHETIC_DEMO
+DEMO-0259,Software install blocked,The installer cannot run because the machine is not on the corporate network. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0260,Docking station not detected,The office printer has a paper jam and shows a tray error.,Hardware,SYNTHETIC_DEMO
+DEMO-0261,VS Code will not launch,Please install the latest version of the data analysis software on my machine. I attached a screenshot of the error message. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0262,ERP application throws an error,Outlook closes unexpectedly when I open an attachment.,Software,SYNTHETIC_DEMO
+DEMO-0263,Intranet site not loading,Video meetings freeze and audio cuts out because of high latency. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0264,Cannot reach shared drive,"I cannot map the network shared drive, it says the network path was not found.",Network,SYNTHETIC_DEMO
+DEMO-0265,Very slow network speed,"I cannot map the network shared drive, it says the network path was not found.",Network,SYNTHETIC_DEMO
+DEMO-0266,Battery drains very fast,My external monitor says no signal even though the cable is connected. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0267,Authenticator app on new phone,My user profile was disabled after I returned from leave.,Account Access,SYNTHETIC_DEMO
+DEMO-0268,Teams update failing,The browser extension needed for the finance portal is not loading. I attached a screenshot of the error message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0269,Laptop overheating and fan loud,Several keys on the keyboard are stuck or do not register.,Hardware,SYNTHETIC_DEMO
+DEMO-0270,Outlook keeps crashing,I need admin approval to install a plugin for the reporting tool. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0271,Need new software installed,Windows update has been stuck at thirty percent for hours. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0272,Intranet site not loading,Remote desktop over VPN is unusably slow from home broadband. I am usng a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0273,License expired for design tool,The browser extension needed for the finance portal is not loading. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0274,Need password reset,I need my role permissions updated so I can approve expense reports. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0275,Laptop overheating and fan loud,The hard drive is making a clicking noise and the machine freezes. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0276,Application error on startup,The antivirus software is blocking an approved application from running.,Software,SYNTHETIC_DEMO
+DEMO-0277,MFA code not arriving,My user profile was disabled after I returned from leave. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0278,Cannot connect to VPN,I get a proxy authentication error whenever I open any external website. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0279,Video calls lagging badly,The office wifi network does not appear in the list of available networks. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0280,Single sign on failing,I forgot my password and need it reset so I can log in. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0281,Application error on startup,The antivirus software is blocking an approved application from running. Other users in my team have not seen this. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0282,Browser extension not working,The program runs very slowly and uses all of the memory after the patch. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0283,VS Code will not launch,The ERP system displays an error when I try to save a purchase order. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0284,Single sign on failing,Single sign on redirects me back to the login page in a loop. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0285,Cannot reach shared drive,Websites show a DNS server not responding error.,Network,SYNTHETIC_DEMO
+DEMO-0286,Need password reset,I get an access denied message when opening the shared project folder. I already tried the self service reset page. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0287,Docking station not detected,My external monitor says no signal even though the cable is connected. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0288,Wifi keeps disconnecting,Ping to the internal servers is timing out and packets are being lost. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0289,Cannot connect to VPN,Video meetings freeze and audio cuts out because of high latency. Bandwidth looks very low on the speed test. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0290,Ethernet port not working,My IP address shows as limited connectivity on the network adapter. Other colleagues on the same floor have the same issue. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0291,Request access to Jira project,I need permission to view the finance team SharePoint folder. It worked yesterday without any problem. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0292,Screen flickering,There is a cracked screen on my laptop after it fell off the desk. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0293,Proxy error when browsing,The ethernet port on my desk gives no link light and no connectivity. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0294,Keyboard keys not working,My external monitor says no signal even though the cable is connected. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0295,Browser extension not working,The code editor does not open after the last update and nothing happens. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0296,Battery drains very fast,The USB ports do not recognise any devices I plug in. I tried a different power outlet. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0297,Very slow network speed,Video meetings freeze and audio cuts out because of high latency. The problem is worse in the afternoon. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0298,Very slow network speed,Video meetings freeze and audio cuts out because of high latency. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0299,Excel freezes on large files,The program runs very slowly and uses all of the memory after the patch.,Software,SYNTHETIC_DEMO
+DEMO-0300,DNS error on all websites,The ethernet port on my desk gives no link light and no connectivity.,Network,SYNTHETIC_DEMO
+DEMO-0301,Battery drains very fast,The laptop does not power on at all even when connected to the charger. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0302,Screen flickering,"The wireless mouse has stopped moving the cursor, I replaced the battery.",Hardware,SYNTHETIC_DEMO
+DEMO-0303,Need new software installed,The browser extesion needed for the finance portal is not loading.,Software,SYNTHETIC_DEMO
+DEMO-0304,Windows update stuck,The installer fails halfway with an error and rolls back. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0305,Headset has no audio,The office printer has a paper jam and shows a tray error. The device is about three years old. Please help as soon as possble.,Hardware,SYNTHETIC_DEMO
+DEMO-0306,Teams update failing,Excel stops responding whenever I open a workbook with many formulas. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0307,Laptop will not turn on,There is a cracked screen on my laptop after it fell off the desk. The device is about three years old. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0308,Video calls lagging badly,The router on our floor keeps restarting and everyone loses connection. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0309,Mouse stopped responding,There is a cracked screen on my laptop after it fell off the desk. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0310,DNS error on all websites,The router on our floor keeps restarting and everyone loses connection. Bandwidth looks very low on the speed test. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0311,Proxy error when browsing,The router on our floor keeps restarting and everyone loses connection. It works fine on my phone hotspot. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0312,MFA code not arriving,Please grant me access to the Jira project for my new team. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0313,Cannot open shared drive,"Access denied when I open the shared drive, I do not have permission. Thanks in advance.",Account Access,SYNTHETIC_DEMO
+DEMO-0314,Laptop overheating and fan loud,Several keys on the keyboard are stuck or do not register. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0315,Account locked out,I get an access denied message when opening the shared project folder.,Account Access,SYNTHETIC_DEMO
+DEMO-0316,Battery drains very fast,My external monitor says no signl even though the cable is connected. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0317,Mouse stopped responding,Several keys on the keyboard are stuck or do not register. A spare part from the stockroom might fix it. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0318,Laptop will not turn on,The pwer adapter is damaged and the charging cable is frayed. I tried a different power outlet. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0319,Need password reset,My password has expired and the reset link does not work. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0320,Cannot sign in to email,"I cannot sign in to my corporate email, it says the credentials are incorrect. This is not urgent but it is annoying.",Account Access,SYNTHETIC_DEMO
+DEMO-0321,Laptop will not turn on,There is a cracked screen on my laptop after it fell off the desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0322,Request access to Jira project,I changed phones and need to re register my authenticator app. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0323,Windows update stuck,The antivirus software is blocking an approved application from running. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0324,No internet access in my office,The firewall seems to be blocking access to the internal portal. I already restarted the network adapter. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0325,Excel freezes on large files,The antivirus software is blocking an approved application from running. The version number is in the about menu. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0326,Headset has no audio,The USB ports do not recognise any devices I plug in. A spare part from the stockroom might fix it. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0327,Printer paper jam,The laptop does not power on at all even when connected to the charger.,Hardware,SYNTHETIC_DEMO
+DEMO-0328,Account locked out,I forgot my password and need it reset so I can log in. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0329,Docking station not detected,The laptop does not power on at all even when connected to the charger. A spare part from the stockroom might fix it. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0330,Cannot reach shared drive,The ethernet port on my desk gives no link light and no connectivity. I already restarted the network adapter. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0331,Keyboard keys not working,My external monitor says no signal even though the cable is connected. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0332,Cannot connect to VPN,The wifi drops every few minutes and I have to reconnect manually.,Network,SYNTHETIC_DEMO
+DEMO-0333,ERP application throws an error,Outlook closes unexpectedly when I open an attachment. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0334,Video calls lagging badly,The office wifi network does not appear in the list of available networks. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0335,Browser extension not working,Outlook closes unexpectedly when I open an attachment. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0336,License expired for design tool,Outlook closes unexpectedly when I open an attachment. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0337,Need new software installed,I need admin approval to install a plugin for the reporting tool. Other users in my team have not seen this. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0338,Cannot connect to VPN,Ping to the internal servers is timing out and packets are being lost. I already restarted the network adapter. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0339,Account locked out,"I cannot sign in to my corporate email, it says the credentials are incorrect.",Account Access,SYNTHETIC_DEMO
+DEMO-0340,Video calls lagging badly,The router on our floor keeps restarting and everyone loses connection. Bandwidth looks very low on the speed test. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0341,Permission denied on shared folder,My account is locked after too many failed login attempts. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0342,Headset has no audio,The battery only lasts about thirty minutes and the laptop shuts down suddenly. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0343,Outlook keeps crashing,The antivirus software is blocking an approved application from running. I tried reinstalling it but the same error returns. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0344,Proxy error when browsing,Video meetings freeze and audio cuts out because of high latency.,Network,SYNTHETIC_DEMO
+DEMO-0345,Password expired,"Please unlock my directory account, I cannot log in to any system.",Account Access,SYNTHETIC_DEMO
+DEMO-0346,Request access to Jira project,Single sign on redirects me back to the login page in a loop.,Account Access,SYNTHETIC_DEMO
+DEMO-0347,MFA code not arriving,"I cannot sign in to my corporate email, it says the credentials are incorrect.",Account Access,SYNTHETIC_DEMO
+DEMO-0348,Video calls lagging badly,I have no internet connection even though the cable is plugged in. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0349,Cannot log in over VPN,VPN connects but my login is rejected with invalid credentials. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0350,Laptop will not turn on,There is a cracked screen on my laptop after it fell off the desk. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0351,Headset has no audio,The battery only lasts about thirty minutes and the laptop shuts down suddenly. A spare part from the stockroom might fix it. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-0352,ERP application throws an error,Please install the latest version of the data analysis software on my machine. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0353,VS Code will not launch,Windows update has been stuck at thirty percent for hours.,Software,SYNTHETIC_DEMO
+DEMO-0354,Laptop will not turn on,The office printer has a paper jam and shows a tray error. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0355,Keyboard keys not working,The battery only lasts about thirty minutes and the laptop shuts down suddenly. I need a replacement unit if it cannot be repaired. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0356,Wifi keeps disconnecting,Remote desktop over VPN is unusably slow from home broadband.,Network,SYNTHETIC_DEMO
+DEMO-0357,DNS error on all websites,Video meetings freeze and audio cuts out because of high latency. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0358,Need new software installed,The ERP system displays an error when I try to save a purchase order. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0359,Ethernet port not working,The VPN client connects but then times out after a minute. Other colleagues on the same floor have the same issue. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0360,Printer paper jam,My external monitor says no signal even though the cable is connected.,Hardware,SYNTHETIC_DEMO
+DEMO-0361,Excel freezes on large files,The program runs very slwly and uses all of the memory after the patch.,Software,SYNTHETIC_DEMO
+DEMO-0362,License expired for design tool,After the upgade my PDF reader shows a missing DLL message. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0363,Single sign on failing,I changed phones and need to re register my authenticator app. I already tried the self service reset page. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0364,Permission denied on shared folder,I need my role permissions updated so I can approve expense reports.,Account Access,SYNTHETIC_DEMO
+DEMO-0365,Need new software installed,The browser extension needed for the finance portal is not loading. I attached a screenshot of the error message. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0366,ERP application throws an error,The antivirus sftware is blocking an approved application from running. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0367,Cannot log in over VPN,VPN connects but my login is rejected with invalid credentials. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0368,MFA code not arriving,The security token for my login was revoked and I cannot authenticate. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0369,Docking station not detected,The battery only lasts about thirty minutes and the laptop shuts down suddenly. It happened right after I moved my desk. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0370,Windows update stuck,The browser extension needed for the finance portal is not loading.,Software,SYNTHETIC_DEMO
+DEMO-0371,Application error on startup,The program runs very slowly and uses all of the memory after the patch. Other users in my team have not seen this. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0372,Request access to Jira project,A new joiner in my team needs an account and the standard access groups. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0373,Windows update stuck,The antivirus software is blocking an approved application from running. I attached a screenshot of the error message. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0374,Very slow network speed,I have no internet connection even though the cable is plugged in. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0375,Intranet site not loading,Ping to the internal servers is timing out and packets are being lost.,Network,SYNTHETIC_DEMO
+DEMO-0376,Permission denied on shared folder,My user profile was disabled after I returned from leave. My employee ID is on the original request form. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0377,Need password reset,I need permission to view the finance team SharePoint folder. My manager can confirm the access request. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0378,Intranet site not loading,Downloads and web pages are extremely slow compared to yesterday. Bandwidth looks very low on the speed test. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0379,Need password reset,My account is locked after too many failed login attempts. My manager can confirm the access request. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0380,Video calls lagging badly,I have no internet connection even though the cable is plugged in.,Network,SYNTHETIC_DEMO
+DEMO-0381,Cannot connect to VPN,I have no internet connection even though the cable is plugged in. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0382,Monitor shows no signal,There is a cracked screen on my laptop after it fell off the desk. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0383,Authenticator app on new phone,Single sign on redirects me back to the login page in a loop. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0384,Need password reset,I forgot my password and need it reset so I can log in. My manager can confirm the access request. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0385,Windows update stuck,The antivirus software is blocking an approved application from running. I attached a screenshot of the error message. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0386,Cannot open shared drive,"Access denied when I open the shared drive, I do not have permission. My manager asked me to raise this ticket.",Account Access,SYNTHETIC_DEMO
+DEMO-0387,Ethernet port not working,The ethernet port on my desk gives no link light and no connectivity. The problem is worse in the afternoon. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0388,Cannot sign in to email,Single sign on redirects me back to the login page in a loop. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0389,Proxy error when browsing,Video meetings freeze and audio cuts out because of high latency. Other colleagues on the same floor have the same issue.,Network,SYNTHETIC_DEMO
+DEMO-0390,Account locked out,"Please unlock my directory account, I cannot log in to any system. I already tried the self service reset page. Thanks in advance.",Account Access,SYNTHETIC_DEMO
+DEMO-0391,Headset has no audio,The docking station is not detecting the external monitors or the keyboard. A spare part from the stockroom might fix it. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0392,Excel freezes on large files,The application shows an unhandled exception dialog right after launching. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0393,Application error on startup,The program runs very slowly and uses all of the memory after the patch. I attached a screenshot of the error message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0394,Windows update stuck,The application shows an unhandled exception dialog right after launching. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0395,Need access to SharePoint folder,Please grant me access to the Jira project for my new team. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0396,Account locked out,I need permission to view the finance team SharePoint folder. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0397,Video calls lagging badly,Ping to the internal servers is timing out and packets are being lost. I already restarted the network adapter. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0398,ERP application throws an error,My software license has expired and the application is in read only mode. The version number is in the about menu. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0399,Keyboard keys not working,The laptop does not power on at all even when connected to the charger. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0400,Battery drains very fast,There is a cracked screen on my laptop after it fell off the desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0401,Account locked out,The security token for my login was revoked and I cannot authenticate. I already tried the self service reset page. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-0402,Excel freezes on large files,The browser extension needed for the finance portal is not loading. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0403,Windows update stuck,Windows update has been stuck at thirty percent for hours. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0404,Need access to SharePoint folder,I forgot my password and need it reset so I can log in. My managr can confirm the access request. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0405,Cannot log in over VPN,VPN connects but my login is rejected with invalid credentials. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0406,Printer paper jam,The power adapter is damaged and the charging cable is frayed. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0407,Wifi keeps disconnecting,I get a proxy authentication error whenever I open any external website. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0408,Very slow network speed,The ethernet port on my desk gives no link light and no connectivity. The problem is worse in the afternoon. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0409,Cannot open shared drive,"Access denied when I open the shared drive, I do not have permission. This is not urgent but it is annoying.",Account Access,SYNTHETIC_DEMO
+DEMO-0410,Teams update failing,The installer fails halfway with an error and rolls back.,Software,SYNTHETIC_DEMO
+DEMO-0411,ERP application throws an error,The Teams update fails with an error code and keeps retrying. I attached a screenshot of the error message. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0412,Permission denied on shared folder,The multi factor authentication code never arrives by text message.,Account Access,SYNTHETIC_DEMO
+DEMO-0413,Ethernet port not working,Video meetings freeze and audio cuts out because of high latency. Bandwidth looks very low on the speed test. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0414,Teams will not load,Teams shows a blank screen and then an error after I sign in. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0415,Wifi keeps disconnecting,Remote desktop over VPN is unusably slow from home broadband.,Network,SYNTHETIC_DEMO
+DEMO-0416,Screen flickering,The USB ports do not recognise any devices I plug in.,Hardware,SYNTHETIC_DEMO
+DEMO-0417,Headset has no audio,The docking station is not detecting the external monitors or the keyboard. I tried a different power outlet. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0418,Request access to Jira project,I get an access denied message when opening the shared project folder. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0419,Password expired,My password has expired and the reset link does not work. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0420,Intranet site not loading,The firewall seems to be blocking access to the internal portal.,Network,SYNTHETIC_DEMO
+DEMO-0421,Keyboard keys not working,My external monitor says no signal even though the cable is connected. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0422,DNS error on all websites,The firewall seems to be blocking access to the internal portal.,Network,SYNTHETIC_DEMO
+DEMO-0423,Keyboard keys not working,"The wireless mouse has stopped moving the cursor, I replaced the battery. I need a replacement unit if it cannot be repaired. Please help as soon as possible.",Hardware,SYNTHETIC_DEMO
+DEMO-0424,Password expired,My user profile was disabled after I returned from leave.,Account Access,SYNTHETIC_DEMO
+DEMO-0425,Mouse stopped responding,The USB ports do not recognise any devices I plug in. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0426,Cannot connect to VPN,My IP address shows as limited connectivity on the network adapter. It works fine on my phone hotspot. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0427,Teams update failing,Windows update has been stuck at thirty percent for hours. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0428,Application error on startup,The code editor does not open after the last update and nothing happens.,Software,SYNTHETIC_DEMO
+DEMO-0429,Teams update failing,My software license has expired and the application is in read only mode. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0430,Cannot reach shared drive,I get a proxy authentication error whenever I open any external website.,Network,SYNTHETIC_DEMO
+DEMO-0431,Printer paper jam,The battery only lasts about thirty minutes and the laptop shuts down suddenly. I need a replacement unit if it cannot be repaired. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0432,Outlook keeps crashing,The code editor does not open after the last update and nothing happens.,Software,SYNTHETIC_DEMO
+DEMO-0433,DNS error on all websites,Video meetings freeze and audio cuts out because of high latency. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0434,Intranet site not loading,Remote desktop over VPN is unusably slow from home broadband. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0435,Need new software installed,Outlook closes unexpectedly when I open an attachment. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0436,Video calls lagging badly,I get a proxy authentication error whenever I open any external website. It works fine on my phone hotspot. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0437,Authenticator app on new phone,I changed phones and need to re register my authenticator app. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0438,Excel freezes on large files,Excel stops responding whenever I open a workbook with many formulas.,Software,SYNTHETIC_DEMO
+DEMO-0439,Screen flickering,"The wireless mouse has stopped moving the cursor, I replaced the battery. Please help as soon as possible.",Hardware,SYNTHETIC_DEMO
+DEMO-0440,Teams update failing,Outlook closes unexpectedly when I open an attachment. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0441,Ethernet port not working,I get a proxy authentication error whenever I open any external website. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0442,Need access to SharePoint folder,My password has expired and the reset link does not work. My employee ID is on the original request form. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0443,Wifi keeps disconnecting,"I cannot map the network shared drive, it says the network path was not found. Bandwidth looks very low on the speed test.",Network,SYNTHETIC_DEMO
+DEMO-0444,Cannot connect to VPN,"I cannot map the network shared drive, it says the network path was not found. Thanks in advance.",Network,SYNTHETIC_DEMO
+DEMO-0445,Proxy error when browsing,The VPN client connects but then times out after a minute. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0446,Excel freezes on large files,After the upgrade my PDF reader shows a missing DLL message. The version number is in the aout menu.,Software,SYNTHETIC_DEMO
+DEMO-0447,Application error on startup,Please install the latest version of the data analysis software on my machine. I tied reinstalling it but the same error returns. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0448,Email not syncing,Outlook is not syncing new mail and shows disconnected. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0449,Teams update failing,Windows update has been stuck at thirty percent for hours.,Software,SYNTHETIC_DEMO
+DEMO-0450,No internet access in my office,Video meetings freeze and audio cuts out because of high latency. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0451,Account locked out,I need my role permissions updated so I can approve expense reports. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0452,Keyboard keys not working,The laptop does not power on at all even when connected to the charger. I need a replacement unit if it cannot be repaired. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0453,Proxy error when browsing,"I cannot map the network shared drive, it says the network path was not found. The problem is worse in the afternoon.",Network,SYNTHETIC_DEMO
+DEMO-0454,Cannot connect to VPN,Downloads and web pages are extremely slow compared to yesterday.,Network,SYNTHETIC_DEMO
+DEMO-0455,Password expired,My account is locked after too many failed login attempts. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0456,Cannot connect to VPN,Video meetings freeze and audio cuts out because of high latency. Other colleagues on the same floor have the same issue. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0457,Intranet site not loading,The VPN client connects but then times out after a minute. Other colleagues on the same floor have the same issue. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0458,Ethernet port not working,I have no internet connection even though the cable is plugged in. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0459,Single sign on failing,Single sign on redirects me back to the login page in a loop.,Account Access,SYNTHETIC_DEMO
+DEMO-0460,DNS error on all websites,The firewall seems to be blocking access to the internal portal. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0461,Screen share failing,Screen sharing in the meeting app fails and the display driver crashes. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0462,Laptop will not turn on,The USB ports do not recognise any devices I plug in. I tied a different power outlet. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0463,Need access to SharePoint folder,I need permission to view the finance team SharePoint folder.,Account Access,SYNTHETIC_DEMO
+DEMO-0464,Mouse stopped responding,There is a cracked screen on my laptop after it fell off the desk. It happend right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0465,Intranet site not loading,Downloads and web pages are extremely slow compared to yesterday. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0466,No internet access in my office,The wifi drops every few minutes and I have to reconnect manually. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0467,VS Code will not launch,The code editor does not open after the last update and nothing happens. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0468,Ethernet port not working,"I cannot map the network shared drive, it says the network path was not found. My manager asked me to raise this ticket.",Network,SYNTHETIC_DEMO
+DEMO-0469,Application error on startup,The Teams update fails with an error code and keeps retrying. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0470,Very slow network speed,The wifi drops every few minutes and I have to reconnect manually. Other colleagues on the same floor have the same issue.,Network,SYNTHETIC_DEMO
+DEMO-0471,Laptop will not turn on,The office printer has a paper jam and shows a tray error. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0472,Permission denied on shared folder,Single sign on redirects me back to the login page in a loop. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0473,Need new software installed,The antivirus software is blocking an approved application from running. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0474,Mouse stopped responding,The hard drive is making a clicking noise and the machine freezes. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0475,Authenticator app on new phone,A new joiner in my team needs an account and the standard access groups. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0476,Monitor shows no signal,The power adapter is damaged and the charging cable is frayed. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0477,Cannot reach shared drive,Remote desktop over VPN is unusably slow from home broadband. I already restarted the network adapter. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0478,Battery drains very fast,The screen flickers and shows horizontal lines after a few minutes. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0479,ERP application throws an error,I need admin approval to install a plugin for the reorting tool. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0480,Browser extension not working,The program runs very slowly and uses all of the memory after the patch. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0481,Application error on startup,The installer fails halfway with an error and rolls back.,Software,SYNTHETIC_DEMO
+DEMO-0482,Excel freezes on large files,I need admin approval to install a plugin for the reporting tool. I attached a screenshot of the error message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0483,Need password reset,I need my role permissions updated so I can approve expense reports. It worked yesterday without any problem. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-0484,Mouse stopped responding,The docking station is not detecting the external monitors or the keyboard. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0485,Cannot reach shared drive,"I cannot map the network shared drive, it says the network path was not found. It works fine on my phone hotspot.",Network,SYNTHETIC_DEMO
+DEMO-0486,Battery drains very fast,The office printer has a paper jam and shows a tray error. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0487,Cannot sign in to email,I need my role permissions updated so I can approve expense reports. I already tried the self service reset page. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0488,Authenticator app on new phone,I need my role permissions updated so I can approve expense reports. I already tried the self service reset page. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0489,Outlook keeps crashing,After the upgrade my PDF reader shows a missing DLL message. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0490,Permission denied on shared folder,I need my role permissions updated so I can approve expense reports.,Account Access,SYNTHETIC_DEMO
+DEMO-0491,Laptop will not turn on,The laptop does not power on at all even when connected to the charger.,Hardware,SYNTHETIC_DEMO
+DEMO-0492,VS Code will not launch,The installer fails halfway with an error and rolls back. It started after the latest patch. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0493,Single sign on failing,I forgot my password and need it reset so I can log in. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0494,ERP application throws an error,Excel stops responding whenever I open a workbook with many formulas. Other users in my team have not seen this. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0495,Keyboard keys not working,The headset microphone is dead and I cannot hear anything through the speakers. I need a replacement unit if it cannot be repaired. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0496,Screen flickering,The sceen flickers and shows horizontal lines after a few minutes. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0497,Browser extension not working,The browser extension needed for the finance portal is not loading. I tried reinstalling it but the same error returns. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0498,Cannot connect to VPN,My IP address shows as limited connectivity on the network adapter. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0499,Proxy error when browsing,My IP address shows as limited connectivity on the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0500,Software install blocked,The installer cannot run because the machine is not on the corporate network. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0501,Need new software installed,I need admin approval to install a plugin for the reporting tool. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0502,Windows update stuck,The application shows an unhandled exception dialog right after launching. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0503,Windows update stuck,My software license has expired and the application is in read only mode. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0504,Laptop overheating and fan loud,The office printer has a paper jam and shows a tray error. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0505,Video calls lagging badly,Video meetings freeze and audio cuts out because of high latency. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0506,Very slow network speed,My IP address shows as limited connectivity on the network adapter. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0507,VS Code will not launch,Excel stops responding whenever I open a workbook with many formulas. It started after the latest patch. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0508,Battery drains very fast,My external monitor says no signal even though the cable is connected. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0509,Docking station not detected,The webcam light is on but the camera shows a black picture. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0510,Docking station not detected,The battery only lasts about thirty minutes and the laptop shuts down suddenly. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0511,Headset has no audio,There is a cracked screen on my laptop after it fell off the desk. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0512,Password expired,My password has expired and the reset link does not work. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0513,Monitor shows no signal,The webcam light is on but the camera shows a black picture. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0514,Keyboard keys not working,The docking station is not detecting the external monitors or the keyboard. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0515,VS Code will not launch,Outlook closes unexpectedly when I open an attachment. I attached a screenshot of the error message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0516,Excel freezes on large files,The browser extension needed for the finance portal is not loading. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0517,Teams update failing,I need admin approval to install a plugin for the reporting tool. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0518,ERP application throws an error,The installer fails halfway with an error and rolls back. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0519,Account locked out,I need permission to view the finance team SharePoint folder. I need this before the end of the day. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0520,Laptop will not turn on,The webcam light is on but the camera shows a black picture. A spare part from the stockroom might fix it. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0521,Headset has no audio,The battery only lasts about thirty minutes and the laptop shts down suddenly. It happened right after I moved my desk. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0522,License expired for design tool,Excel stops responding whenever I open a workbook with many formulas. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0523,Excel freezes on large files,The program runs very slowly and uses all of the memory after the patch.,Software,SYNTHETIC_DEMO
+DEMO-0524,Monitor shows no signal,The headset microphone is dead and I cannot hear anything through the speakers. I tried a different power outlet. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0525,Keyboard keys not working,The power adapter is damaged and the charging cable is frayed. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0526,Cannot connect to VPN,Ping to the internal servers is timing out and packets are being lost. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0527,Cannot sign in to email,I need my role permissions updated so I can approve expense reports. My manager asked me to rise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0528,Outlook keeps crashing,The ERP system displays an error when I try to save a purchse order. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0529,Need new software installed,Please install the latest version of the data analysis software on my machine. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0530,Cannot reach shared drive,Websites show a DNS server not responding error. The problem is worse in the afternoon. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0531,Docking station not detected,The hard drive is making a clicking noise and the machine freezes.,Hardware,SYNTHETIC_DEMO
+DEMO-0532,Very slow network speed,The office wifi network does not appear in the list of available networks.,Network,SYNTHETIC_DEMO
+DEMO-0533,Cannot sign in to email,I need my role permissions updated so I can approve expense reports. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0534,Need access to SharePoint folder,The security token for my login was revoked and I cannot authenticate.,Account Access,SYNTHETIC_DEMO
+DEMO-0535,ERP application throws an error,Please install the latest version of the data analysis software on my machine. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0536,VS Code will not launch,The browser extension needed for the finance portal is not loading. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0537,Video calls lagging badly,The office wifi network does not appear in the list of available networks. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0538,Screen flickering,"The wireless mouse has stopped moving the cursor, I replaced the battery.",Hardware,SYNTHETIC_DEMO
+DEMO-0539,Excel freezes on large files,After the upgrade my PDF reader shows a missing DLL message. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0540,Very slow network speed,The wifi dros every few minutes and I have to reconnect manually. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0541,Cannot reach shared drive,Ping to the internal servers is timing out and packets are being lost.,Network,SYNTHETIC_DEMO
+DEMO-0542,Laptop overheating and fan loud,My external monitor says no signal even though the cable is connected. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-0543,Request access to Jira project,My account is locked aftr too many failed login attempts. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0544,Monitor shows no signal,The webcam light is on but the camera shows a black picture. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0545,Application error on startup,The program runs very slowly and uses all of the memory after the patch. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0546,MFA code not arriving,Single sign on redirects me back to the login page in a loop. I need this before the end of the day. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0547,Email not syncing,Outlook is not syncing new mail and shows disconnected. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0548,Teams update failing,The browser extension needed for the finance portal is not loading. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0549,Authenticator app on new phone,My account is locked after too many faild login attempts. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0550,Mouse stopped responding,Several keys on the keyboard are stuck or do not register. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0551,Laptop will not turn on,The webcam light is on but the camera shows a black picture. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0552,Proxy error when browsing,I have no internet connection even though the cable is plugged in. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0553,Need access to SharePoint folder,My account is locked after too many failed login attempts.,Account Access,SYNTHETIC_DEMO
+DEMO-0554,Docking station not detected,"The wireless mouse has stopped moving the cursor, I replaced the battery. Thanks in advance.",Hardware,SYNTHETIC_DEMO
+DEMO-0555,Single sign on failing,"Please unlock my directory account, I cannot log in to any system. I need this before the end of the day. This is not urgent but it is annoying.",Account Access,SYNTHETIC_DEMO
+DEMO-0556,Intranet site not loading,The ethernet port on my desk gives no link light and no connectivity. I already restarted the network adapter. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0557,Proxy error when browsing,I get a proxy authentication error whenever I open any external website. I already restarted the network adapter. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0558,Cannot reach shared drive,The firewall seems to be blocking access to the internal portal.,Network,SYNTHETIC_DEMO
+DEMO-0559,Browser extension not working,The program runs very slowly and uses all of the memory after the patch. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0560,Very slow network speed,The router on our floor keeps restarting and everyone loses connection.,Network,SYNTHETIC_DEMO
+DEMO-0561,Docking station not detected,The power adapter is damaged and the charging cable is frayed.,Hardware,SYNTHETIC_DEMO
+DEMO-0562,VS Code will not launch,Outlook closes unexpectedly when I open an attachment. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0563,Cannot sign in to email,My account is locked after too many failed login attempts.,Account Access,SYNTHETIC_DEMO
+DEMO-0564,Permission denied on shared folder,My password has expired and the rset link does not work.,Account Access,SYNTHETIC_DEMO
+DEMO-0565,Keyboard keys not working,"The wireless mouse has stopped moving the cursor, I replaced the battery. I tried a different power outlet. My manager asked me to raise this ticket.",Hardware,SYNTHETIC_DEMO
+DEMO-0566,Monitor shows no signal,The fan is very loud and the bottom of the laptop gets extremely hot. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0567,Browser extension not working,Windows update has been stuck at thirty percent for hours.,Software,SYNTHETIC_DEMO
+DEMO-0568,MFA code not arriving,Please grant me access to the Jira project for my new team. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0569,Cannot connect to VPN,I have no internet connection even though the cable is plugged in. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0570,License expired for design tool,Excel stops responding whenever I open a workbook with many formulas. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0571,Very slow network speed,Ping to the internal servers is timing out and packets are being lost. Bandwidth looks very low on the speed test. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0572,Cannot log in over VPN,VPN connects but my login is rejected with invalid credentials. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0573,Cannot connect to VPN,Ping to the internal servers is timing out and packets are being lost.,Network,SYNTHETIC_DEMO
+DEMO-0574,Need password reset,Single sign on redirects me back to the login page in a loop. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0575,Monitor shows no signal,Several keys on the keyboard are stuck or do not register. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0576,Account locked out,"Please unlock my directory account, I cannot log in to any system. My employee ID is on the original request form. I am working from the main office today.",Account Access,SYNTHETIC_DEMO
+DEMO-0577,Keyboard keys not working,The laptop does not power on at all even when connected to the charger.,Hardware,SYNTHETIC_DEMO
+DEMO-0578,Ethernet port not working,I get a proxy authentication error whenever I open any external website. Bandwidth looks very low on the speed test. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0579,Very slow network speed,The router on our floor keeps restarting and everyone loses connection. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0580,MFA code not arriving,I get an access denied message when opening the shared project folder. It worked yesterday without any problem. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0581,Printer paper jam,The laptop does not power on at all even when connected to the charger.,Hardware,SYNTHETIC_DEMO
+DEMO-0582,Very slow network speed,The wifi drops every few minutes and I have to reconnect manually. I already restarted the network adapter. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0583,Laptop overheating and fan loud,The USB ports do not recognise any devices I plug in. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0584,Intranet site not loading,The office wifi network does not appear in the list of available networks. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0585,Laptop overheating and fan loud,The USB ports do not recognise any devices I plug in. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0586,Teams update failing,Windows update has been stuck at thirty percent for hours. I attached a screensht of the error message. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0587,Wifi keeps disconnecting,The VPN client connects but then times out after a minute. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0588,Single sign on failing,My account is locked after too many failed login attempts. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0589,ERP application throws an error,The application shows an unhandled exception dialog right after launching. It started after the latest patch. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0590,Browser extension not working,The installer fails halfway with an error and rolls back. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0591,Need new software installed,Outlook closes unexpectedly when I open an attachment. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0592,No internet access in my office,Ping to the internal servers is timing out and packets are being lost. Other colleagues on the same floor have the same issue. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0593,Cannot reach shared drive,"I cannot map the network shared drive, it says the network path was not found.",Network,SYNTHETIC_DEMO
+DEMO-0594,Keyboard keys not working,The fan is very loud and the bottom of the lptop gets extremely hot.,Hardware,SYNTHETIC_DEMO
+DEMO-0595,Teams update failing,My software license has expired and the application is in read only mode.,Software,SYNTHETIC_DEMO
+DEMO-0596,Proxy error when browsing,Ping to the internal servers is timing out and packets are being lost. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0597,Need access to SharePoint folder,My password has expired and the reset link does not work. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0598,MFA code not arriving,The security token for my login was revoked and I cannot authenticate. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0599,Battery drains very fast,The webcam light is on but the camea shows a black picture.,Hardware,SYNTHETIC_DEMO
+DEMO-0600,Docking station not detected,The office printer has a paper jam and shows a tray error. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0601,Proxy error when browsing,Remote desktop over VPN is unusably slow from home broadband. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0602,Mouse stopped responding,The USB ports do not recognise any devices I plug in. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0603,Wifi keeps disconnecting,Video meetings freeze and audio cuts out because of high latency. The problem is worse in the afternoon. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0604,Proxy error when browsing,The router on our floor keeps restarting and everyone loses connection.,Network,SYNTHETIC_DEMO
+DEMO-0605,Permission denied on shared folder,My account is locked after too many failed login attempts. My employee ID is on the original request form. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-0606,ERP application throws an error,After the upgrade my PDF reader shows a missing DLL message. I tried reinstalling it but the same error returns. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0607,Need password reset,I need my role permissions updated so I can approve expense reports. It worked yesterday without any problem. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0608,Mouse stopped responding,The battery only lasts about thirty minutes and the laptop shuts down suddenly. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0609,Laptop overheating and fan loud,The docking station is not detecting the external monitors or the keyboard. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0610,Single sign on failing,I changed phones and need to re register my authenticator app.,Account Access,SYNTHETIC_DEMO
+DEMO-0611,Laptop overheating and fan loud,Several keys on the keyboard are stuck or do not register. It happened right after I moved my desk.,Hardware,SYNTHETIC_DEMO
+DEMO-0612,Printer paper jam,The laptop does not power on at all even when connected to the charger.,Hardware,SYNTHETIC_DEMO
+DEMO-0613,Need password reset,"Please unlock my directory account, I cannot log in to any system.",Account Access,SYNTHETIC_DEMO
+DEMO-0614,Battery drains very fast,The battery only lasts about thirty minutes and the laptop shuts down suddenly.,Hardware,SYNTHETIC_DEMO
+DEMO-0615,Video calls lagging badly,"I cannot map the network shared drive, it says the network path was not found.",Network,SYNTHETIC_DEMO
+DEMO-0616,Proxy error when browsing,My IP address shows as limited connectivity on the network adapter. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0617,Cannot sign in to email,I forot my password and need it reset so I can log in.,Account Access,SYNTHETIC_DEMO
+DEMO-0618,Single sign on failing,The multi factor authentication code never arrives by text message.,Account Access,SYNTHETIC_DEMO
+DEMO-0619,No internet access in my office,Remote desktop over VPN is unusably slow from home broadband. Other colleagues on the same floor have the same issue.,Network,SYNTHETIC_DEMO
+DEMO-0620,Docking station not detected,"The wireless mouse has stopped moving the cursor, I replaced the battery. I need a replacement unit if it cannot be repaired. This is blocking my work.",Hardware,SYNTHETIC_DEMO
+DEMO-0621,Account locked out,My password has expired and the reset link does not work. My manager can confirm the access request. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0622,Very slow network speed,I get a proxy authentication error whenever I open any external website.,Network,SYNTHETIC_DEMO
+DEMO-0623,Docking station not detected,The laptop does not power on at all even when connected to the charger. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0624,Laptop overheating and fan loud,Several keys on the keyboard are stuck or do not register. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0625,Authenticator app on new phone,I forgot my password and need it reset so I can log in. I need this before the end of the day. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0626,Printer paper jam,The USB ports do not recognise any devices I plug in. I am working from the main office tday.,Hardware,SYNTHETIC_DEMO
+DEMO-0627,Video calls lagging badly,Video meetins freeze and audio cuts out because of high latency. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0628,MFA code not arriving,Please grant me access to the Jira project for my new team. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0629,Authenticator app on new phone,The multi factor authentication code never arrives by text message. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0630,Need password reset,I get an access denied message when opening the shared project folder.,Account Access,SYNTHETIC_DEMO
+DEMO-0631,Monitor shows no signal,The fan is very loud and the bottom of the laptop gets extremely hot.,Hardware,SYNTHETIC_DEMO
+DEMO-0632,Windows update stuck,The installer fails halfway with an error and rolls back. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0633,Outlook keeps crashing,After the upgrade my PDF reader shows a missing DLL message. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0634,Wifi keeps disconnecting,Video meetings freeze and audio cuts out because of high latency. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0635,DNS error on all websites,The office wifi network does not appear in the list of available networks. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0636,No internet access in my office,The ethernet port on my desk gives no link light and no connectivity. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0637,Request access to Jira project,My user profile was disabled after I returned from leave. I need this before the end of the day. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0638,Password expired,Single sign on redirects me back to the login page in a loop. It worked yesterday without any problem. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0639,Authenticator app on new phone,I need permission to view the finance team SharePoint folder. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0640,Cannot sign in to email,Please grant me access to the Jira project for my new team. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0641,No internet access in my office,The ethernet port on my desk gives no link light and no connectivity.,Network,SYNTHETIC_DEMO
+DEMO-0642,Browser extension not working,The code editor does not open after the last update and nothing happens. I attached a screenshot of the errr message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0643,Monitor shows no signal,The office printer has a paper jam and shows a tray error. My manager asked me to raise this ticke.,Hardware,SYNTHETIC_DEMO
+DEMO-0644,Application error on startup,Outlook closes unexpectedly when I open an attachment.,Software,SYNTHETIC_DEMO
+DEMO-0645,Browser extension not working,The browser extension needed for the finance portal is not loading.,Software,SYNTHETIC_DEMO
+DEMO-0646,Need new software installed,The browser extension needed for the finance portal is not loading. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0647,Permission denied on shared folder,The multi factor authentication code never arrives by text message. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0648,No internet access in my office,The office wifi network does not appear in the list of available networks. Other colleagues on the same floor have the same issue.,Network,SYNTHETIC_DEMO
+DEMO-0649,Cannot reach shared drive,The wifi drops every few minutes and I have to reconnect manually. The problem is worse in the afternoon. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0650,Battery drains very fast,The power adapter is damaged and the charging cable is frayed. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0651,Laptop will not turn on,The battery only lasts about thirty minutes and the laptop shuts down suddenly. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0652,ERP application throws an error,After the upgrade my PDF reader shows a missing DLL message. Other users in my team have not seen this. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0653,Printer not found,My computer cannot find the office printer on the network. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0654,Cannot reach shared drive,Websites show a DNS server not responding error.,Network,SYNTHETIC_DEMO
+DEMO-0655,DNS error on all websites,Downloads and web pages are extremely slow compared to yesterday. It works fine on my phone hotspot. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0656,Request access to Jira project,I need permission to view the finance team SharePoint folder. I need this before the end of the day. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0657,Outlook keeps crashing,After the upgrade my PDF reader shows a missing DLL message. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0658,DNS error on all websites,Remote desktop over VPN is unusably slow from home broadband. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0659,Monitor shows no signal,"The wireless mouse has stopped moving the cursor, I replaced the battery. I need a replacement unit if it cannot be repaired. It started this morning.",Hardware,SYNTHETIC_DEMO
+DEMO-0660,Single sign on failing,Single sign on redirects me back to the login page in a loop.,Account Access,SYNTHETIC_DEMO
+DEMO-0661,Authenticator app on new phone,My account is locked after too many failed login attempts. I need this before the end of the day. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0662,Cannot sign in to email,Single sign on redirects me back to the login page in a loop. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0663,Excel freezes on large files,The ERP system displays an error when I try to save a purchase order. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0664,Application error on startup,The code editor does not open after the last update and nothing happens. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0665,VS Code will not launch,Windows update has been stuck at thirty percent for hours. The verson number is in the about menu. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0666,Printer paper jam,The battery only lasts about thirty minutes and the laptop shuts down suddenly. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0667,Intranet site not loading,Downloads and web pages are extremely slow compared to yesterday. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0668,Email not syncing,Outlook is not syncing new mail and shows disconnected. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0669,Intranet site not loading,The VPN client connects but then times out after a minute. I already restarted the network adapter. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0670,Request access to Jira project,My user profile was disabled after I returned from leave. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0671,Very slow network speed,My IP address shows as limited connectivity on the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0672,No internet access in my office,The ethernet port on my desk gives no link light and no connectivity. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0673,Application error on startup,My software license has expired and the application is in read only mode. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0674,Video calls lagging badly,Remote desktop over VPN is unusably slow from home broadband. It works fine on my phone hotspot. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0675,No internet access in my office,The router on our floor keeps restarting and everyone loses connection.,Network,SYNTHETIC_DEMO
+DEMO-0676,Account locked out,The security token for my login was revoked and I cannot authenticate. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0677,Outlook keeps crashing,Excel stops responding whenever I open a workbook with many formulas. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0678,Excel freezes on large files,The program runs very slowly and uses all of the memory after the patch. The version number is in the about menu. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0679,MFA code not arriving,The security token for my login was revoked and I cannot athenticate. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0680,Screen flickering,My external monitor says no signal even though the cable is connected. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0681,Mouse stopped responding,The headset microphone is dead and I cannot hear anything through the speakers. I need a replacement unit if it cannot be repaired. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0682,Password expired,My account is locked after too many failed login attempts. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0683,ERP application throws an error,After the upgrade my PDF reader shows a missing DLL message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0684,No internet access in my office,The office wifi network does not appear in the list of available networks. I already restarted the network adapter. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0685,DNS error on all websites,The router on our floor keeps restarting and everyone loses connection. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0686,Teams will not load,Teams shows a blank screen and then an error after I sign in. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0687,Laptop overheating and fan loud,The webcam light is on but the camera shows a black picture. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0688,Cannot open shared drive,"Access denied when I open the shared drive, I do not have permission. Please help as soon as possible.",Account Access,SYNTHETIC_DEMO
+DEMO-0689,Laptop will not turn on,The screen flickers and shows horizontal lines after a few minutes. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0690,Proxy error when browsing,I have no internet connection even though the cable is plugged in. Bandwidth looks very low on the speed test. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0691,DNS error on all websites,The VPN client connects but then times out after a minute.,Network,SYNTHETIC_DEMO
+DEMO-0692,ERP application throws an error,Please install the latest version of the data analysis software on my machine.,Software,SYNTHETIC_DEMO
+DEMO-0693,Printer not found,My computer cannot find the office printer on the network. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0694,Headset has no audio,The battery only lasts about thirty minutes and the laptop shuts down suddenly. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0695,Mouse stopped responding,The USB ports do not recognise any devies I plug in. I tried a different power outlet. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0696,Printer not found,My computer cannot find the office printer on the network. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0697,VS Code will not launch,I need admin approval to install a plugin for the reporting tool. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0698,Password expired,My user profile was disabled after I returned from leave.,Account Access,SYNTHETIC_DEMO
+DEMO-0699,Cannot sign in to email,My account is locked after too many failed login attempts. It worked yesterday without any problem. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0700,Authenticator app on new phone,A new joiner in my team needs an account and the standard access groups. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0701,Cannot connect to VPN,The VPN client connects but then times out after a minute. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0702,Single sign on failing,The security token for my login was revoked and I cannot authenticate. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0703,Cannot sign in to email,Single sign on redirects me back to the login page in a loop. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0704,License expired for design tool,The antivirus software is blocking an approved application from running. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0705,Printer not found,My computer cannot find the office printer on the network. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0706,Account locked out,"Please unlock my directory account, I cannot log in to any system. It worked yesterday without any problem. It started this morning.",Account Access,SYNTHETIC_DEMO
+DEMO-0707,License expired for design tool,The program runs very slowly and uses all of the memory after the patch. It started after the latest patch. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0708,Cannot connect to VPN,The ethernet port on my desk gives no link light and no connectivity.,Network,SYNTHETIC_DEMO
+DEMO-0709,Windows update stuck,The code editor does not open after the last update and nothing happens.,Software,SYNTHETIC_DEMO
+DEMO-0710,No internet access in my office,Websites show a DNS server not responding error. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0711,VS Code will not launch,The antivirus software is blocking an approved application from running. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0712,Cannot sign in to email,My account is locked after too many failed login attempts. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0713,Very slow network speed,My IP address shows as limited connectivity on the network adapter. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0714,MFA code not arriving,I get an access denied message when opening the shared project folder. It worked yesterday without any problem. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0715,Single sign on failing,Single sign on redirects me back to the login page in a loop.,Account Access,SYNTHETIC_DEMO
+DEMO-0716,MFA code not arriving,My account is locked after too many failed login attempts.,Account Access,SYNTHETIC_DEMO
+DEMO-0717,Very slow network speed,The office wifi network does not appear in the list of available networks. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0718,DNS error on all websites,"I cannot map the network shared drive, it says the network path was not found. The problem is worse in the afternoon. Please help as soon as possible.",Network,SYNTHETIC_DEMO
+DEMO-0719,Teams update failing,I need admin approval to install a plugin for the reporting tool. It started after the latest patch. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0720,Wifi keeps disconnecting,My IP address shows as limited connectivity on the network adapter. The problem is worse in the afternoon. Thanks in advnce.,Network,SYNTHETIC_DEMO
+DEMO-0721,Mouse stopped responding,Several keys on the keyboard are stuck or do not register.,Hardware,SYNTHETIC_DEMO
+DEMO-0722,Printer paper jam,The fan is very loud and the bottom of the laptop gets extremely hot. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0723,Single sign on failing,My account is locked after too many failed login attempts. I need this before the end of the day. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0724,ERP application throws an error,The code editor does not open after the last update and nothing happens. I tried reinstalling it but the same error returns. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0725,MFA code not arriving,I forgot my password and need it reset so I can log in. I already tried the self service reset page. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0726,ERP application throws an error,The program runs very slowly and uses all of the memory after the patch. The version number is in the about menu. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0727,DNS error on all websites,Ping to the internal servers is timing out and packets are being lost. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0728,DNS error on all websites,The wifi drops every few minutes and I have to reconnect manually. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0729,Video calls lagging badly,Ping to the internal servers is timing out and packets are being lost. It works fine on my phone hotspot. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0730,Monitor shows no signal,My external monitor says no signal even though the cable is connected.,Hardware,SYNTHETIC_DEMO
+DEMO-0731,Laptop very slow,The laptop is extremely slow and the fan runs all the time. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0732,Cannot reach shared drive,Downloads and web pages are extremely slow compared to yesterday. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0733,VS Code will not launch,The browser extension needed for the finance portal is not loading. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0734,Permission denied on shared folder,The security token for my login was revoked and I cannot authenticate. It worked yesterday without any problem. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-0735,MFA code not arriving,Please grant me access to the Jira project for my new team. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0736,Cannot connect to VPN,Ping to the internal servers is timing out and packets are being lost. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0737,Request access to Jira project,I forgot my password and need it reset so I can log in. It worked yesterday without any problem. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0738,Wifi keeps disconnecting,The router on our floor keeps restarting and everyone loses connection. Please help as soon as possibl.,Network,SYNTHETIC_DEMO
+DEMO-0739,Screen flickering,The USB ports do not recognise any devices I plug in.,Hardware,SYNTHETIC_DEMO
+DEMO-0740,ERP application throws an error,The browser extension needed for the finance portal is not loading.,Software,SYNTHETIC_DEMO
+DEMO-0741,Printer paper jam,The docking station is not detecting the external monitors or the keyboard. A spare part from the stockroom might fix it. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0742,Printer paper jam,The battery only lasts about thirty minutes and the laptop shuts down suddenly. It happened right after I moved my desk. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0743,Single sign on failing,I need permission to view the finance team SharePoint folder. My manager can confirm the access request. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0744,Application error on startup,The ERP system displays an error when I try to save a purchase order.,Software,SYNTHETIC_DEMO
+DEMO-0745,Teams update failing,The browser extension neded for the finance portal is not loading. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0746,Permission denied on shared folder,The security token for my login was revoked and I cannot authenticate. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0747,Account locked out,The security token for my login was revoked and I cannt authenticate. My employee ID is on the original request form. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0748,Screen flickering,The fan is very loud and the bottom of the laptop gets extremely hot. It happened right after I moved my desk. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0749,Need new software installed,The installer fails halfway with an error and rolls back. The version number is in the about menu. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0750,Headset has no audio,The laptop does not power on at all even when connected to the charger. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0751,Mouse stopped responding,The fan is very loud and the bottom of the laptop gets extremely hot. I tried a different power outlet. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0752,Proxy error when browsing,"I cannot map the network shared drive, it says the network path was not found. I am using a company laptop.",Network,SYNTHETIC_DEMO
+DEMO-0753,Permission denied on shared folder,My user profile was disabled after I rturned from leave.,Account Access,SYNTHETIC_DEMO
+DEMO-0754,ERP application throws an error,Excel stos responding whenever I open a workbook with many formulas. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0755,Need password reset,A new joiner in my team needs an account and the standard access groups. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0756,Excel freezes on large files,The browser extension needed for the finance portal is not loading. I tried reinstalling it but the same error returns. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0757,Cannot sign in to email,Please grant me access to the Jira project for my new team. My employee ID is on the original request form. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0758,Docking station not detected,The fan is very loud and the bottom of the laptop gets extremely hot. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0759,Outlook keeps crashing,After the upgrade my PDF reader shows a missing DLL message. The version number is in the about menu. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0760,Video calls lagging badly,The ethernet port on my desk gives no link light and no connectivity.,Network,SYNTHETIC_DEMO
+DEMO-0761,Cannot reach shared drive,Ping to the internal servers is timing out and packets are being lost. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0762,Need password reset,A new joiner in my team needs an account and the standard access groups. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0763,Cannot log in over VPN,VPN connects but my login is rejected with invalid credentials. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0764,Single sign on failing,My password has expired and the reset link does not work. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0765,Single sign on failing,Single sign on redirects me back to the login page in a loop. My employee ID is on the original request form. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0766,Outlook keeps crashing,The Teams update fails with an error code and keeps retrying. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0767,Printer paper jam,There is a cracked screen on my laptop after it fell off the desk. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0768,Docking station not detected,The webcam light is on but the camera shows a black picture.,Hardware,SYNTHETIC_DEMO
+DEMO-0769,Docking station not detected,The headset microphone is dead and I cannot hear anything through the speakers. The device is about three years old. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0770,Cannot connect to VPN,The office wifi network does not apear in the list of available networks.,Network,SYNTHETIC_DEMO
+DEMO-0771,Very slow network speed,The VPN client connects but then times out after a minute. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0772,Need password reset,A new joiner in my team needs an account and the standard access groups. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0773,Application error on startup,My software license has expired and the application is in read only mode. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0774,Proxy error when browsing,"I cannot map the network shared drive, it says the network path was not found. I already restarted the network adapter. My manager asked me to raise this ticket.",Network,SYNTHETIC_DEMO
+DEMO-0775,Authenticator app on new phone,The security token for my login was revoked and I cannot authenticate. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0776,Email not syncing,Outlook is not syncing new mail and shows disconnected. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0777,No internet access in my office,Video meetings freeze and audio cuts out because of high latency. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0778,Excel freezes on large files,The Teams update fails with an error code and keeps retrying. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0779,Monitor shows no signal,My external monitor says no signal even though the cable is connected. A spare part from the stockroom might fix it. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0780,Docking station not detected,Several keys on the keyboard are stuck or do not register. The device is about three years old. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0781,Password expired,My account is locked after too many failed login attempts. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0782,Laptop overheating and fan loud,The power adapter is damaged and the charging cable is frayed. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0783,Very slow network speed,I have no internet connection even though the cable is plugged in. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0784,Cannot connect to VPN,The ethernet port on my desk gives no link light and no connectivity. The problem is worse in the afternoon. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0785,Intranet site not loading,The ethernet port on my desk gives no link light and no connectivity. Other colleagues on the same floor have the same issue. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0786,Battery drains very fast,The fan is very loud and the bottom of the laptop gets extremely hot. The device is about three years old. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0787,Proxy error when browsing,The firewall seems to be blocking access to the internal portal. Bandwidth looks very low on the speed test. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0788,Laptop overheating and fan loud,The headset microphone is dead and I cannot hear anything through the speakers. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0789,Request access to Jira project,Please grant me access to the Jira project for my new team. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0790,Account locked out,I need my role permissions updated so I can approve expense reports. I already tried the self service reset page. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0791,Need password reset,I get an access denied message when opening the shared project folder.,Account Access,SYNTHETIC_DEMO
+DEMO-0792,Account locked out,I changed phones and need to re register my authenticator app. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0793,Password expired,I changed phones and need to re register my authenticator app. I already tried the self service reset page. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0794,No internet access in my office,Ping to the internal servers is timing out and packets are being lost. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0795,Outlook keeps crashing,Excel stops responding whenever I open a workbook with many formulas. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0796,Screen flickering,The battery only lasts about thirty minutes and the laptop shuts down suddenly. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-0797,Single sign on failing,I changed phones and need to re register my authenticator app. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0798,Permission denied on shared folder,The security token for my login was revoked and I cannot authenticate.,Account Access,SYNTHETIC_DEMO
+DEMO-0799,VS Code will not launch,The Teams update fails with an error code and keeps retrying. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0800,Request access to Jira project,A new joiner in my team needs an account and the standard access groups. I need this before the end of the day. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0801,Intranet site not loading,I have no internet connection even though the cable is plugged in. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0802,Browser extension not working,After the upgrade my PDF reader shows a missing DLL message. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0803,Single sign on failing,The security token for my login was revoked and I cannot authenticate. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0804,Permission denied on shared folder,My user profile was disabled after I returned from leave.,Account Access,SYNTHETIC_DEMO
+DEMO-0805,Need password reset,Please grant me access to the Jira project for my new team. I need this before the end of the day.,Account Access,SYNTHETIC_DEMO
+DEMO-0806,Permission denied on shared folder,I changed phones and need to re register my authenticator app.,Account Access,SYNTHETIC_DEMO
+DEMO-0807,Outlook keeps crashing,The application shows an unhandled exception dialog right after launching. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0808,Request access to Jira project,My account is locked after too many failed login attempts. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-0809,Authenticator app on new phone,I need permission to view the finance team SharePoint folder. I already tried the self service reset page. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0810,Screen flickering,The webcam light is on but the camera shows a black picture.,Hardware,SYNTHETIC_DEMO
+DEMO-0811,Software install blocked,The installer cannot run because the machine is not on the corporate network. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0812,Single sign on failing,I need permission to view the finance team SharePoint folder. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0813,VS Code will not launch,Windows update has been stuck at thirty percent for hours. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0814,Docking station not detected,There is a cracked screen on my laptop after it fell off the desk. The device is aout three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0815,Single sign on failing,I changed phones and need to re register my authenticator app. I need this before the end of the day. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0816,Docking station not detected,The screen flickers and shows horizontal lines after a few minutes. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0817,Screen flickering,My external monitor says no signal even though the cable is connected. A spare part from the stockroom might fix it. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0818,Very slow network speed,The firewall seems to be blocking access to the internal portal. Bandwidth looks very low on the speed test. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0819,Teams update failing,My software license has expired and the application is in read only mode. Other users in my team have not seen this. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0820,Wifi keeps disconnecting,The ethernet port on my desk gives no link light and no connectivity. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0821,Cannot sign in to email,"I cannot sign in to my corporate email, it says the credentials are incorect. My manager can confirm the access request. I am using a company laptop.",Account Access,SYNTHETIC_DEMO
+DEMO-0822,VS Code will not launch,The code editor does not open after the last update and nothing happens. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0823,License expired for design tool,Please install the latest version of the data analysis software on my machine. Other users in my team have not seen this. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0824,Screen flickering,The docking station is not detecting the external monitors or the keyboard. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0825,Windows update stuck,Windows update has been stuck at thirty percent for hours. The verson number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0826,Password expired,"Please unlock my directory account, I cannot log in to any system. It worked yesterday without any problem. This is not urgent but it is annoying.",Account Access,SYNTHETIC_DEMO
+DEMO-0827,Proxy error when browsing,Video meetings freeze and audio cuts out because of high latency.,Network,SYNTHETIC_DEMO
+DEMO-0828,Laptop very slow,The laptop is extremely slow and the fan runs all the time. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0829,Permission denied on shared folder,The multi factor authentication code never arrives by text message. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0830,VS Code will not launch,The antivirus software is blocking an approved application from running. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0831,Screen flickering,The battery only lasts about thirty minutes and the laptop shuts down suddenly. A spare part from the stockroom might fix it. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0832,Browser extension not working,The antivirus software is blocking an approved application from running. I attached a screenshot of the error message. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0833,Laptop overheating and fan loud,My external monitor says no signal even though the cable is connected. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0834,MFA code not arriving,The multi factor authentication code never arrives by text message. My manager can confirm the access request. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0835,Outlook keeps crashing,My software license has expired and the application is in read only mode. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0836,Battery drains very fast,My external monitor says no signal even though the cable is connected. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0837,Battery drains very fast,"The wireless muse has stopped moving the cursor, I replaced the battery.",Hardware,SYNTHETIC_DEMO
+DEMO-0838,Application error on startup,The code editor does not open after the last update and nothing happens. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0839,Windows update stuck,Please install the latest version of the data analysis software on my machine. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0840,Excel freezes on large files,The browser extension needed for the finance portal is not loading. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0841,Printer paper jam,The fan is very loud and the bottom of the laptop gets extremely hot. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0842,Screen flickering,The docking station is not detecting the external monitors or the keyboard. I am working from the main office today.,Hardware,SYNTHETIC_DEMO
+DEMO-0843,Mouse stopped responding,The webcam light is on but the camera shows a black picture. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0844,Video calls lagging badly,The router on our floor keeps restarting and everyone loses connection. I already restarted the network aapter. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0845,Email not syncing,Outlook is not syncing new mail and shows disconnected. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0846,Request access to Jira project,A new joiner in my team needs an account and the standard access groups.,Account Access,SYNTHETIC_DEMO
+DEMO-0847,Printer paper jam,The docking station is not detecting the external monitors or the keyboard. The device is about three years old. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0848,Mouse stopped responding,My external monitor says no signal even though the cable is connected. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0849,Outlook keeps crashing,The program runs very slowly and uses all of the memory after the patch. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0850,Outlook keeps crashing,Excel stops responding whenever I open a workbook with many formulas. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0851,Screen share failing,Screen sharing in the meeting app fails and the display driver crashes. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0852,Authenticator app on new phone,I need permission to view the finance team SharePoint folder. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0853,Single sign on failing,Single sign on redirects me back to the login page in a loop. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0854,Authenticator app on new phone,A new joiner in my team needs an account and the standard access group.,Account Access,SYNTHETIC_DEMO
+DEMO-0855,License expired for design tool,My software license has expired and the application is in read only mode.,Software,SYNTHETIC_DEMO
+DEMO-0856,Single sign on failing,"Please unlock my directory account, I cannot log in to any system. My manager can confirm the access request.",Account Access,SYNTHETIC_DEMO
+DEMO-0857,Need access to SharePoint folder,My password has expired and the reset link does not work. I need this before the end of the day. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-0858,VS Code will not launch,The application shows an unhandled exception dialog right after launching.,Software,SYNTHETIC_DEMO
+DEMO-0859,Permission denied on shared folder,My user profile was disabled after I returned from leave.,Account Access,SYNTHETIC_DEMO
+DEMO-0860,ERP application throws an error,Please install the latest version of the data analysis software on my machine. I tried reinstalling it but the same error returns. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0861,Excel freezes on large files,After the upgrade my PDF reader shows a missing DLL mssage. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0862,Application error on startup,My software license has expired and the application is in read only mode. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-0863,Request access to Jira project,I need permission to view the finance team SharePoint folder.,Account Access,SYNTHETIC_DEMO
+DEMO-0864,No internet access in my office,"I cannot map the network shared drive, it says the network path was not found. The problem is worse in the afternoon. It started this morning.",Network,SYNTHETIC_DEMO
+DEMO-0865,No internet access in my office,Websites show a DNS server not responding error. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0866,Browser extension not working,The Teams update fails with an error code and keeps retrying. Thanks in advance.,Software,SYNTHETIC_DEMO
+DEMO-0867,Account locked out,I forgot my password and need it reset so I can log in. My eployee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0868,Cannot connect to VPN,The router on our floor keeps restarting and everyone loses connection. The problem is worse in the afternoon. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0869,Browser extension not working,The Teams update fails with an error code and keeps retrying. It started after the latest patch. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0870,Very slow network speed,Downloads and web pages are extremely slow compared to yesterday. Bandwidth looks very low on the speed test. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0871,ERP application throws an error,The antivirus software is blocking an approved application from running.,Software,SYNTHETIC_DEMO
+DEMO-0872,Cannot reach shared drive,"I cannot map the network shared drive, it says the network path was not found. Other colleagues on the same floor have the same issue.",Network,SYNTHETIC_DEMO
+DEMO-0873,VS Code will not launch,The Teams update fails with an error code and keeps retrying. It started after the latest patch. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0874,Permission denied on shared folder,I get an access denied message when opening the shared project folder. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0875,Account locked out,I changed phones and need to re register my authenticator app.,Account Access,SYNTHETIC_DEMO
+DEMO-0876,Authenticator app on new phone,My password has expired and the reset link does not work. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0877,Laptop very slow,The laptop is extremely slow and the fan runs all the time. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0878,Application error on startup,The code editor does not open after the last update and nothing happens. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0879,Cannot connect to VPN,Video meetings freeze and audio cuts out because of high latency. The problem is worse in the afternoon. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0880,Excel freezes on large files,After the upgrade my PDF reader shows a missing DLL message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0881,Video calls lagging badly,"I cannot map the network shared drive, it says the network path was not found. I already restarted the network adapter.",Network,SYNTHETIC_DEMO
+DEMO-0882,Need new software installed,The ERP system displays an error when I try to save a purchase order. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0883,Need access to SharePoint folder,The security token for my login was revoked and I cannot authenticate. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0884,Teams update failing,The antivirus software is blocking an approved appliation from running. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0885,Application error on startup,Outlook closes unexpectedly when I open an attachment. Other users in my team have not seen this. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0886,Keyboard keys not working,The hard drive is making a clicking noise and the machine freezes.,Hardware,SYNTHETIC_DEMO
+DEMO-0887,License expired for design tool,After the upgrade my PDF reader shows a missing DLL message. I attached a screenshot of the error message. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0888,Permission denied on shared folder,My account is locked after too many failed login attempts. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0889,Account locked out,Please grat me access to the Jira project for my new team. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0890,DNS error on all websites,"I cannot map the network shared drive, it says the network path was not found. I am working from the main office today.",Network,SYNTHETIC_DEMO
+DEMO-0891,Headset has no audio,The screen flickers and shows horizontal lines after a few minutes.,Hardware,SYNTHETIC_DEMO
+DEMO-0892,Authenticator app on new phone,I need my role permissions updated so I can approve expense reports. My manager can confirm the access request.,Account Access,SYNTHETIC_DEMO
+DEMO-0893,Need access to SharePoint folder,My account is locked after too many failed login attempts.,Account Access,SYNTHETIC_DEMO
+DEMO-0894,Screen flickering,The power adapter is damaged and the charging cable is frayed. I tried a different power outlet. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0895,Permission denied on shared folder,My account is locked after too many failed login attempts. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-0896,Need access to SharePoint folder,I changed phones and need to re register my authenticator app. My employee ID is on the original request form. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0897,No internet access in my office,Ping to the internal servers is timing out and packets are bing lost. It works fine on my phone hotspot. This is blocking my work.,Network,SYNTHETIC_DEMO
+DEMO-0898,Intranet site not loading,Downloads and web pages are extremely slow compared to yesterday. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0899,MFA code not arriving,My password has expired and the reset link does not work. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0900,Application error on startup,The application shows an unhandled exception dialog right after launching. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0901,MFA code not arriving,Please grant me access to the Jira project for my new team. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0902,Need new software installed,Outlook closes unexpectedly when I open an attachment. It started after the latest patch. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-0903,VS Code will not launch,The antivirus software is blocking an approved application from running. It started after the latest patch. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0904,Excel freezes on large files,The browser extension needed for the finance portal is not loading. It started after the latest patch. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-0905,VS Code will not launch,My software license has expired and the application is in read only mode. It started after the latest patch. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0906,Password expired,The multi factor authentication code never arrives by text message. My employee ID is on the original request form. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0907,Outlook keeps crashing,The program runs very slowly and uses all of the memory after the patch. I attached a screenshot of the error message. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0908,Proxy error when browsing,Downloads and web pages are extremely slow compared to yesterday. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0909,Account locked out,Single sign on redirects me back to the login page in a loop. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0910,Browser extension not working,The ERP system displays an error when I try to save a purchase order. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0911,Outlook keeps crashing,Outlook closes unexpectedly when I open an attachment. I attached a screnshot of the error message. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0912,Keyboard keys not working,The docking station is not detecting the external monitors or the keyboard.,Hardware,SYNTHETIC_DEMO
+DEMO-0913,Teams update failing,The application shows an unhandled exception dialog right after launching. I attached a screenshot of the error message. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0914,Intranet site not loading,The VPN client connects but then times out after a minute. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0915,DNS error on all websites,Downloads and web pages are extremely slow compared to yesterday. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0916,Account locked out,My password has expired and the reset link does not work.,Account Access,SYNTHETIC_DEMO
+DEMO-0917,Request access to Jira project,I forgot my password and need it reset so I can log in.,Account Access,SYNTHETIC_DEMO
+DEMO-0918,Video calls lagging badly,The ethernet port on my desk gives no link light and no connectivity. Other colleagues on the same floor have the same issue.,Network,SYNTHETIC_DEMO
+DEMO-0919,Proxy error when browsing,"I cannot map the network shared drive, it says the network path was not found. It works fine on my phone hotspot.",Network,SYNTHETIC_DEMO
+DEMO-0920,Very slow network speed,The office wifi network does not appear in the list of available networks. The problem is worse in the afternoon.,Network,SYNTHETIC_DEMO
+DEMO-0921,Cannot sign in to email,I need permission to view the finance team SharePoint folder. I already tried the self service reset page. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0922,Cannot connect to VPN,The wifi drops every few minutes and I have to reconnect manually. Oter colleagues on the same floor have the same issue. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0923,Monitor shows no signal,The screen flickers and shows horizontal lines after a few minutes. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0924,Request access to Jira project,Please grant me access to the Jira project for my new team.,Account Access,SYNTHETIC_DEMO
+DEMO-0925,Laptop overheating and fan loud,The fan is very loud and the bottom of the laptop gets extremely hot.,Hardware,SYNTHETIC_DEMO
+DEMO-0926,Screen flickering,"The wireless mouse has stopped moving the cursor, I replaced the battery.",Hardware,SYNTHETIC_DEMO
+DEMO-0927,Keyboard keys not working,My external monitor says no signal even though the cable is connected.,Hardware,SYNTHETIC_DEMO
+DEMO-0928,Application error on startup,Excel stops responding whenever I open a workbook with many formulas. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0929,Keyboard keys not working,The battery only lasts about thirty minutes and the laptop shuts down suddenly. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0930,ERP application throws an error,The installer fails halfway with an error and rolls back. The version number is in the about menu. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0931,Laptop overheating and fan loud,"The wireless mouse has stopped moving the cursor, I replaced the battery. The device is about three years old. This is blocking my work.",Hardware,SYNTHETIC_DEMO
+DEMO-0932,DNS error on all websites,Websites show a DNS server not responding error. Other colleagues on the same floor have the same issue.,Network,SYNTHETIC_DEMO
+DEMO-0933,Very slow network speed,Downloads and web pages are extremely slow compared to yesterday. I am using a company laptop.,Network,SYNTHETIC_DEMO
+DEMO-0934,Monitor shows no signal,Several keys on the keyboard are stuck or do not register.,Hardware,SYNTHETIC_DEMO
+DEMO-0935,License expired for design tool,Excel stops responding whenever I open a workbook with many formulas. It started after the latest patch. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0936,Proxy error when browsing,The firewall seems to be blocking access to the internal portal. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0937,Software install blocked,The installer cannot run because the machine is not on the corporate network. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0938,Teams update failing,After the upgrade my PDF reader shows a missing DLL message.,Software,SYNTHETIC_DEMO
+DEMO-0939,Cannot sign in to email,I forgot my password and need it reset so I can log in. It worked yesterday without any problem. I am working from the main office today.,Account Access,SYNTHETIC_DEMO
+DEMO-0940,Email not syncing,Outlook is not syncing new mail and shows disconnected. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0941,Cannot connect to VPN,Websites show a DNS server not responding error. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-0942,Single sign on failing,My user profile was disabled after I returned from leave. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0943,DNS error on all websites,Remote desktop over VPN is unusably slow from home broadband. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0944,No internet access in my office,The VPN client connects but then times out after a minute. Bandwidth looks very low on the speed test. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0945,Intranet site not loading,Downloads and web pages are extremely slow compared to yesterday.,Network,SYNTHETIC_DEMO
+DEMO-0946,Monitor shows no signal,The screen flickers and shows horizontal lines after a few minutes. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0947,Mouse stopped responding,"The wireless mouse has stopped moving the cursor, I replaced the battery. It happened right after I moved my desk. Thanks in advance.",Hardware,SYNTHETIC_DEMO
+DEMO-0948,Proxy error when browsing,The router on our floor keeps restarting and everyone loses connection. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0949,Request access to Jira project,My password has expired and the reset link does not work. I already tried the self service reset page. This is not urgent but it is annoying.,Account Access,SYNTHETIC_DEMO
+DEMO-0950,Video calls lagging badly,Websites show a DNS server not responding error. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0951,Cannot sign in to email,"Please unlock my directory account, I cannot log in to any system.",Account Access,SYNTHETIC_DEMO
+DEMO-0952,Need access to SharePoint folder,A new joiner in my team needs an account and the standard access groups. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-0953,Wifi keeps disconnecting,The office wifi network does not appear in the list of available networks. Other colleagues on the same floor have the same issue. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0954,Authenticator app on new phone,I forgot my password and need it reset so I can log in.,Account Access,SYNTHETIC_DEMO
+DEMO-0955,Laptop will not turn on,The hard drive is making a clicking noise and the machine freezes. I need a replacement unit if it cannot be repaired. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-0956,Windows update stuck,The application shows an unhandled exception dialog right after launching. The version number is in the about menu. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-0957,Need new software installed,Outlook closes unexpectedly when I open an attachment. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-0958,Excel freezes on large files,The Teams update fails with an error code and keeps retrying. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-0959,Headset has no audio,The headset microphone is dead and I cannot hear anything through the speakers. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-0960,VS Code will not launch,My software license has expired and the application is in read only mode. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0961,Battery drains very fast,Several keys on the keyboard are stuck or do not register. My manager asked me to raise this ticket.,Hardware,SYNTHETIC_DEMO
+DEMO-0962,ERP application throws an error,After the upgrade my PDF reader shows a missing DLL message. It started after the latest patch.,Software,SYNTHETIC_DEMO
+DEMO-0963,Mouse stopped responding,There is a cracked screen on my laptop after it fell off the desk. The device is about three years old.,Hardware,SYNTHETIC_DEMO
+DEMO-0964,Headset has no audio,The office printer has a paper jam and shows a tray error.,Hardware,SYNTHETIC_DEMO
+DEMO-0965,Screen flickering,The docking station is not detecting the external monitors or the keyboard. I tried a different power outlet.,Hardware,SYNTHETIC_DEMO
+DEMO-0966,Need password reset,My user profile was disabled after I returned from leave. My employee ID is on the original request form. It started this morning.,Account Access,SYNTHETIC_DEMO
+DEMO-0967,Cannot sign in to email,My account is locked after too many failed login attempts. It worked yesterday without any problem.,Account Access,SYNTHETIC_DEMO
+DEMO-0968,Printer paper jam,The battery only lasts about thirty minutes and the laptop shuts down suddenly. A spare part from the stockroom might fix it. This is blocking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-0969,Cannot open shared drive,"Access denied when I open the shared drive, I do not have permission. Thanks in advance.",Account Access,SYNTHETIC_DEMO
+DEMO-0970,DNS error on all websites,The firewall seems to be blocking access to the internal portal. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0971,Intranet site not loading,Vieo meetings freeze and audio cuts out because of high latency. I already restarted the network adapter.,Network,SYNTHETIC_DEMO
+DEMO-0972,Browser extension not working,After the upgrade my PDF reader shows a missing DLL message. It started after the latest patch. This is not urgent but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-0973,Browser extension not working,The application shows an unhandled exception dialog right after launching.,Software,SYNTHETIC_DEMO
+DEMO-0974,Screen flickering,The webcam light is on but the camera shows a black picture. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0975,License expired for design tool,After the upgrade my PDF reader shows a missing DLL message. Other users in my team have not seen this.,Software,SYNTHETIC_DEMO
+DEMO-0976,Keyboard keys not working,The screen flickers and shows horizontal lines after a few minutes. It happened right after I moved my desk. It started this morning.,Hardware,SYNTHETIC_DEMO
+DEMO-0977,Single sign on failing,A new joiner in my team needs an account and the standard access groups.,Account Access,SYNTHETIC_DEMO
+DEMO-0978,Request access to Jira project,Single sign on redirects me back to the login page in a loop. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-0979,Cannot reach shared drive,The firewall seems to be blocking access to the internal portal. It works fine on my phone hotspot.,Network,SYNTHETIC_DEMO
+DEMO-0980,Need new software installed,I need admin approval to install a plugin for the reporting tool. Other users in my team have not seen this. My manager asked me to raise this ticket.,Software,SYNTHETIC_DEMO
+DEMO-0981,Mouse stopped responding,The webcam light is on but the camera shows a black picture.,Hardware,SYNTHETIC_DEMO
+DEMO-0982,Proxy error when browsing,The VPN client connects but then times out after a minute. Other colleagues on the same floor have the same issue. I am working from the main office today.,Network,SYNTHETIC_DEMO
+DEMO-0983,Teams will not load,Teams shows a blank screen and then an error after I sign in. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-0984,Software install blocked,The installer cannot run because the machine is not on the corporate network. My manager asked me to raise this ticket.,Network,SYNTHETIC_DEMO
+DEMO-0985,ERP application throws an error,Excel stops responding whenever I open a workbook with many formulas.,Software,SYNTHETIC_DEMO
+DEMO-0986,Need password reset,My user profile was disabled after I returned from leave. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-0987,Video calls lagging badly,Downloads and web pages are extremely slow compared to yesterday. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-0988,Wifi keeps disconnecting,The office wifi network does not appear in the list of available networks. Other colleagues on the same floor have the same issue. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0989,Very slow network speed,Video meetings freeze and audio cuts out because of high ltency. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-0990,Single sign on failing,My account is locked after too many failed login attempts.,Account Access,SYNTHETIC_DEMO
+DEMO-0991,Request access to Jira project,"I cannot sign in to my corporate email, it says the credentials are incorrect. My manager can confirm the access request. I am working from the main office today.",Account Access,SYNTHETIC_DEMO
+DEMO-0992,VS Code will not launch,The antivirus software is blocking an approved application from running. I tried reinstalling it but the same error returns.,Software,SYNTHETIC_DEMO
+DEMO-0993,Monitor shows no signal,Several keys on the keyboard are stuck or do not register. This is not urgent but it is annoying.,Hardware,SYNTHETIC_DEMO
+DEMO-0994,Printer paper jam,"The wireless mouse has stopped moving the cursor, I replaced the battery. I tried a different power outlet. Please help as soon as possible.",Hardware,SYNTHETIC_DEMO
+DEMO-0995,Printer not found,My computer cannot find the office printer on the network. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-0996,Monitor shows no signal,Several keys on the keyboard are stuck or do not register. It happened right after I moved my desk. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-0997,Video calls lagging badly,The firewall seems to be blocking access to the internal portal. Bandwidth looks very low on the speed test.,Network,SYNTHETIC_DEMO
+DEMO-0998,Battery drains very fast,The webcam light is on but the camera shows a black picture. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-0999,Permission denied on shared folder,The multi factor authentication code never arrives by text message. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-1000,VS Code will not launch,Windows update has been stuck at thirty percent for hours.,Software,SYNTHETIC_DEMO
+DEMO-1001,Laptop will not turn on,My external monitor says no signal even though the cable is connected. A spare part from the stockroom might fix it. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-1002,Single sign on failing,The multi factor authentication code never arrives by text message. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-1003,Very slow network speed,The VPN client connects but then tmes out after a minute. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-1004,Proxy error when browsing,The router on our floor keeps restarting and everyone loses connection. I already restarted the network adapter. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-1005,Headset has no audio,"The wireless mouse has stopped moving the cursor, I replaced the battery. A spare part from the stockroom might fix it. Thanks in advance.",Hardware,SYNTHETIC_DEMO
+DEMO-1006,License expired for design tool,The Teams update fails with an error code and keeps retrying. I tried reinstalling it but the same error returns. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-1007,Printer paper jam,The hard drive is making a clicking noise and the machine freezes.,Hardware,SYNTHETIC_DEMO
+DEMO-1008,Battery drains very fast,The docking station is not detecting the external moitors or the keyboard.,Hardware,SYNTHETIC_DEMO
+DEMO-1009,Cannot reach shared drive,Ping to the internal servers is timing out and packets are being lost. Other colleagues on the same floor have the same issue. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-1010,MFA code not arriving,Please grant me access to the Jira project for my new team. I already tried the self service reset page. This is blocking my work.,Account Access,SYNTHETIC_DEMO
+DEMO-1011,Wifi keeps disconnecting,My IP address shows as limited connectivity on the network adapter. I already restarted the network adapter. This is not urgent but it is annoying.,Network,SYNTHETIC_DEMO
+DEMO-1012,Windows update stuck,The application shows an unhandled exception dialog right after launching. It started this morning.,Software,SYNTHETIC_DEMO
+DEMO-1013,Permission denied on shared folder,"Please unlock my directory account, I cannot log in to any system. It started this morning.",Account Access,SYNTHETIC_DEMO
+DEMO-1014,Laptop will not turn on,"The wireless mouse has stopped moving the cursor, I replaced the battery. The device is about three years old. Please help as soon as possible.",Hardware,SYNTHETIC_DEMO
+DEMO-1015,Software install blocked,The installer cannot run because the machine is not on the corporate network. Thanks in advance.,Network,SYNTHETIC_DEMO
+DEMO-1016,Outlook keeps crashing,The antivirus software is blocking an approved application from running.,Software,SYNTHETIC_DEMO
+DEMO-1017,Authenticator app on new phone,Please grant me access to the Jira project for my new team. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-1018,Video calls lagging badly,The VPN client connects but then times out after a minute. Other colleagues on the same floor have the same issue.,Network,SYNTHETIC_DEMO
+DEMO-1019,License expired for design tool,My software license has expired and the application is in read only mode. This is not urget but it is annoying.,Software,SYNTHETIC_DEMO
+DEMO-1020,MFA code not arriving,Please grant me access to the Jira project for my new team. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-1021,VS Code will not launch,My software license has expired and the application is in read only mode. I attached a screenshot of the error message.,Software,SYNTHETIC_DEMO
+DEMO-1022,Cannot open shared drive,"Access denied when I open the shared drive, I do not have permission. I am using a company laptop.",Account Access,SYNTHETIC_DEMO
+DEMO-1023,Teams update failing,The application shows an unhandled exception dialog right after launching. I am using a company laptop.,Software,SYNTHETIC_DEMO
+DEMO-1024,Authenticator app on new phone,My user profile was disabled after I returned from leave. Please help as soon as possible.,Account Access,SYNTHETIC_DEMO
+DEMO-1025,Very slow network speed,The VPN client connects but then times out after a minute.,Network,SYNTHETIC_DEMO
+DEMO-1026,Permission denied on shared folder,I get an access denied message when opening the shared project folder. My employee ID is on the original request form.,Account Access,SYNTHETIC_DEMO
+DEMO-1027,ERP application throws an error,The browser extension needed for the finance portal is not loading. The version number is in the about menu. Please help as soon as possible.,Software,SYNTHETIC_DEMO
+DEMO-1028,Need new software installed,Please install the latest version of the data analysis software on my machine. This is blocking my work.,Software,SYNTHETIC_DEMO
+DEMO-1029,Laptop overheating and fan loud,The headset microphone is dead and I cannot hear anything through the speakers. I need a replacement unit if it cannot be repaired. Thanks in advance.,Hardware,SYNTHETIC_DEMO
+DEMO-1030,Account locked out,Single sign on redirects me back to the login page in a loop. I need this before the end of the day. Thanks in advance.,Account Access,SYNTHETIC_DEMO
+DEMO-1031,ERP application throws an error,The program runs very slowly and uses all of the memory after the patch. The version number is in the about menu.,Software,SYNTHETIC_DEMO
+DEMO-1032,Keyboard keys not working,The power adapter is damaged and the charging cable is frayed. A spare part from the stockroom might fix it.,Hardware,SYNTHETIC_DEMO
+DEMO-1033,Cannot connect to VPN,The firewall seems to be blocking access to the internal portal. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-1034,Docking station not detected,Several keys on the keyboard are stuck or do not register.,Hardware,SYNTHETIC_DEMO
+DEMO-1035,Battery drains very fast,The headset microphone is dead and I cannot hear anything through the speakers. This is bloking my work.,Hardware,SYNTHETIC_DEMO
+DEMO-1036,Authenticator app on new phone,I need my role permissions updated so I can approve expense reports. I need this before the end of the day. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-1037,Battery drains very fast,"The wireless mouse has stopped moving the cursor, I replaced the battery. It happened right after I moved my desk. My manager asked me to raise this ticket.",Hardware,SYNTHETIC_DEMO
+DEMO-1038,Need password reset,I need my role permissions updated so I can approve expense reports. My manager asked me to raise this ticket.,Account Access,SYNTHETIC_DEMO
+DEMO-1039,Keyboard keys not working,The battery only lasts about thirty minutes and the laptop shuts down suddenly. I need a replacement unit if it cannot be repaired.,Hardware,SYNTHETIC_DEMO
+DEMO-1040,Permission denied on shared folder,I changed phones and need to re register my authenticator app. I already tried the self service reset page.,Account Access,SYNTHETIC_DEMO
+DEMO-1041,Proxy error when browsing,Remote desktop over VPN is unusably slow from home broadband. It works fine on my phone hotspot. It started this morning.,Network,SYNTHETIC_DEMO
+DEMO-1042,Cannot sign in to email,My password has expired and the reset link does not work. I need this before the end of the day. I am using a company laptop.,Account Access,SYNTHETIC_DEMO
+DEMO-1043,DNS error on all websites,The router on our floor keeps restarting and everyone loses connection. The problem is worse in the afternon.,Network,SYNTHETIC_DEMO
+DEMO-1044,Headset has no audio,The office printer has a paper jam and shows a tray error. I am using a company laptop.,Hardware,SYNTHETIC_DEMO
+DEMO-1045,Laptop overheating and fan loud,The webcam light is on but the camera shows a black picture. Please help as soon as possible.,Hardware,SYNTHETIC_DEMO
+DEMO-1046,Wifi keeps disconnecting,The VPN client connects but then times out after a minute. Please help as soon as possible.,Network,SYNTHETIC_DEMO
+DEMO-1047,Screen share failing,Screen sharing in the meeting app fails and the display driver crashes. I am working from the main office today.,Software,SYNTHETIC_DEMO
+DEMO-1048,Need password reset,My user profile was disabled after I returned from leave. This is blocking my work.,Account Access,SYNTHETIC_DEMO
