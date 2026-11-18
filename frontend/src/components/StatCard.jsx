@@ -1,20 +1,19 @@
-
-function StatCard({ title, value, description, icon: Icon }) {
-    return (
-      <div className="stat-card">
-  
-        <div className="stat-card-top">
-          <span>{title}</span>
-          <Icon size={22} />
-        </div>
-  
-        <h2>{value}</h2>
-  
-        <p>{description}</p>
-  
+function StatCard({ title, value, description, icon: Icon, tone = "indigo" }) {
+  return (
+    <article className={`stat-card tone-${tone}`}>
+      <div className="stat-card-top">
+        <span>{title}</span>
+        {Icon ? (
+          <span className="stat-icon" aria-hidden="true">
+            <Icon size={18} />
+          </span>
+        ) : null}
       </div>
-    );
-  }
-  
-  export default StatCard;
-  
+
+      <h2>{value}</h2>
+      <p>{description}</p>
+    </article>
+  );
+}
+
+export default StatCard;
