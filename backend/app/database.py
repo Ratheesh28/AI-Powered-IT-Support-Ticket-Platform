@@ -19,7 +19,12 @@ if settings.database_url.startswith("sqlite"):
         # An in-memory SQLite DB lives inside ONE connection, so share it (used by tests).
         _engine_kwargs["poolclass"] = StaticPool
 
-engine = create_engine(settings.database_url, **_engine_kwargs)
+engine = create_engine(
+    settings.database_url,
+    pool_pre_ping=True,
+    pool_recycle=300,
+    **_engine_kwargs,
+)
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)
 
 
