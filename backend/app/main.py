@@ -3,6 +3,7 @@
 Run locally:  uvicorn app.main:app --reload
 Interactive docs: http://127.0.0.1:8000/docs
 """
+import asyncio
 import logging
 import time
 from contextlib import asynccontextmanager
@@ -27,7 +28,25 @@ logger = logging.getLogger("app")
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Runs once at startup (before `yield`) and once at shutdown (after)."""
-    Base.metadata.create_all(bind=engine)  # create tables if they do not exist
+    max_retries = 3
+    retry_delay = 2  # seconds between attempts to allow serverless compute wake-up
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            Base.metadata.create_all(bind=engine)
+            logger.info("Database tables initialized successfully (attempt %d/%d).", attempt, max_retries)
+            break
+        except Exception:
+            logger.exception("Database initialization failed on attempt %d/%d.", attempt, max_retries)
+            if attempt < max_retries:
+                await asyncio.sleep(retry_delay)
+            else:
+                logger.error(
+                    "All %d database connection attempts failed during startup. "
+                    "Starting application in degraded mode.",
+                    max_retries,
+                )
+
     predictor.load()
     yield
 
